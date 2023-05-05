@@ -1,0 +1,14 @@
+LID,LNAME,PLZ,STADT
+1,Klamauk,39108,Magdeburg
+2,bagel,39108,Magdeburg
+3,Alcatraz,39104,Magdeburg
+4,CyberSpaceCafe Orbit,39104,Magdeburg
+5,El Greco,39104,Magdeburg
+6,Exlibris,39104,Magdeburg
+7,Falstaff,39104,Magdeburg
+8,Klewitz,39112,Magdeburg
+9,Le Petit,39114,Magdeburg
+10,Rubens,39106,Magdeburg
+11,Durango Saloon,39128,Magdeburg
+12,P 70,39108,Magdeburg
+13,Zum Alten Dessauer,39104,Magdeburg

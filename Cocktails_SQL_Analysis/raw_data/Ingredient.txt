@@ -1,0 +1,15 @@
+ZID,ZNAME,ALKOHOLGEHALT
+1,Tequila,34
+2,Curacao Triple Sec,36
+3,Limettensaft,0
+4,weisser Rum,52
+5,brauner Rum,67
+6,Apricot Brandy,45
+7,Ananassaft,0
+8,Zitronensaft,0
+9,Weinbrand,45
+10,Creme de Menthe,22
+11,Cointreau,12
+12,Canadian Whisky,45
+13,Vermouth rosso,23
+14,Campari,28
