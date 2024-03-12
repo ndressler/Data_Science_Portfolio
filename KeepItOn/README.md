@@ -15,7 +15,7 @@ Access Now is a growing international human rights organization dedicated to def
 
 ## About the Project:
 
-The aim of this project is to analyze a database consisting of internet access shutdowns around the world. The project seeks to answer questions proposed in a case study and conduct Exploratory Data Analysis (EDA).
+The "KeepItOn" project is a comprehensive analysis of internet access shutdowns around the world, conducted in support of the #KeepItOn campaign led by Access Now, an international human rights organization dedicated to defending digital rights. Leveraging Python programming language and popular data science libraries including pandas, matplotlib, and seaborn, this project aims to provide valuable insights into the phenomenon of internet shutdowns through meticulous data cleaning, preprocessing, exploratory data analysis (EDA), and task completion.
 
 ## Tasks for Analysis:
 
@@ -31,23 +31,23 @@ There is a tweet report that a mobile network shutdown is ongoing in Niger right
 
 ## Project Structure:
 
-KeepItOn/
-│
-├── data/
-│   ├── KeepItOn-STOP-Data-2020.csv        # Raw data file
-│   ├── KeepItOn_Clean.csv                 # Cleaned data file
-│
-├── notebooks/
-│   ├── KeepItOn_Analysis.ipynb            # Main notebook for data preprocessing, analysis, and answering tasks
-│   ├── KeepItOn_Presentation.ipynb        # Notebook for presentation slides
-│
-├── outputs/
-│   ├── KeepItOn_Presentation.slides.html  # Presentation slides HTML
-│   ├── graphs/                             # Folder containing saved graphs (in PNG format)
-│       ├── ...
-│
-├── LICENSE
-└── README.md                              # You are here
+KeepItOn/<br>
+│<br>
+├── data/<br>
+│   ├── KeepItOn-STOP-Data-2020.csv        # Raw data file<br>
+│   └── KeepItOn_Clean.csv                 # Cleaned data file<br>
+│<br>
+├── notebooks/<br>
+│   ├── KeepItOn_Analysis.ipynb            # Main notebook for data preprocessing, analysis, and answering tasks<br>
+│   └── KeepItOn_Presentation.ipynb        # Notebook for presentation slides<br>
+│<br>
+├── outputs/<br>
+│   ├── KeepItOn_Presentation.slides.html  # Presentation slides HTML<br>
+│   └── graphs/                             # Folder containing saved graphs (in PNG format)<br>
+│<br>
+├── LICENSE<br>
+└── README.md                              # You are here<br>
+
 
 
 ## How to Use:
