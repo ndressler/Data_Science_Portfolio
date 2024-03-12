@@ -6,7 +6,10 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/nicolecdressle
 
 ## Projects:
 
-Data Analysis and Visualisation with Python:
+### Data Analysis and Visualisation:
+
+With Python:
+
 * [KeepItOn](https://github.com/ndressler/Data_Science_Portfolio/tree/main/KeepItOn): EDA and Task Analysis Assignment made with Python (Pandas, Seaborn and Matplotlib).
 
 With SQL:
