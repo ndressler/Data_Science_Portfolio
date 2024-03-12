@@ -6,9 +6,8 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/nicolecdressle
 
 ## Projects:
 
-With Python:
-
-* [KeepItOn_Python_Analysis](https://github.com/ndressler/Data_Science_Portfolio/tree/main/KeepItOn_Python_Analysis): Analysis Assignment made with Python (Pandas, Numpy and Matplotlib).
+Data Analysis and Visualisation with Python:
+* [KeepItOn](https://github.com/ndressler/Data_Science_Portfolio/tree/main/KeepItOn): EDA and Task Analysis Assignment made with Python (Pandas, Seaborn and Matplotlib).
 
 With SQL:
 
@@ -17,7 +16,3 @@ With SQL:
 * [Cocktails_SQL_Analysis](https://github.com/ndressler/Data_Science_Portfolio/tree/main/Cocktails_SQL_Analysis): EDA made using SQL and Python.
 
 * [Simple_Sales_SQL_Analysis](https://github.com/ndressler/Data_Science_Portfolio/tree/main/Simple_Sales_SQL_Analysis): SQL Assignment.
-
-With Spreadsheets:
-
-* [Womens_Bouldering_Analysis](https://github.com/ndressler/Data_Science_Portfolio/tree/main/Womens_Bouldering_Analysis): Analysis made using Spreadsheets.
