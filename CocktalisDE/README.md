@@ -1,4 +1,4 @@
-# Cocktail DE
+# Cocktails DE
 
 ## About the Project:
 This project is a PostgreSQL database implementation for managing cocktail recipes, ingredients, glassware, localities, and persons associated with cocktail consumption.
