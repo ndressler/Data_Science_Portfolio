@@ -15,5 +15,3 @@ With Python:
 With SQL:
 
 * [CocktailsDE](https://github.com/ndressler/Data_Science_Portfolio/tree/main/Cocktails_SQL_Analysis): Task Analysis Challenge made with PostgreSQL.
-
-* [Simple_Sales_SQL_Analysis](https://github.com/ndressler/Data_Science_Portfolio/tree/main/Simple_Sales_SQL_Analysis): SQL Assignment.
