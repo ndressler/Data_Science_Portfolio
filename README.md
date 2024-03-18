@@ -1,8 +1,8 @@
 # Data Science Portfolio
 
-A repository of the projects I have or currently am working on. It is updated regularly, to see full analysis and code enter the project.
+A repository of data science projects. It's updated regularly, to see full analysis and code enter the project.
 
-More information about me: [LinkedIn](https://www.linkedin.com/in/nicolecdressler/)
+More about me: [LinkedIn](https://www.linkedin.com/in/nicolecdressler/)
 
 ## Projects:
 
