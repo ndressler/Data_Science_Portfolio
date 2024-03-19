@@ -5,8 +5,9 @@
 - [Tableau Visualization](#tableau-visualization)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
-- [End Points](#end-points)
+- [Endpoints](#endpoints)
 - [Data Format](#data-format)
+- [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -104,6 +105,16 @@ The data served by this API is stored in a JSON format. Each competition entry c
 - `dates`: Dates of the competition.
 - `results`: Array containing detailed results of the competition, including rankings, names, surnames, countries, qualifications, semi-final performances, and final performances of participants.
 
+## Future Improvements
+
+### API Functionality Expansion:
+- Currently, the API is only capable of retrieving data using the GET method. Future improvements will include implementing additional HTTP methods such as PUT, DELETE, and POST. This expansion will allow for more comprehensive interaction with the data, including updating, deleting, and adding new entries.
+
+### Hosting on PythonAnywhere:
+- While the API is currently running locally, the plan is to host it on PythonAnywhere for broader accessibility. Hosting the API on PythonAnywhere will make it accessible via the internet, allowing users to interact with it remotely.
+
+### Yearly Updates:
+- To ensure the data remains current and relevant, the API will be updated yearly with new data from women's boulder World Cup events. This periodic update will ensure that analysts and enthusiasts have access to the latest information for their research and visualization needs.
 
 ## Contributing
 
