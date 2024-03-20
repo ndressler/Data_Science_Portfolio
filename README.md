@@ -4,20 +4,22 @@ A repository of data science projects. It's updated regularly, to see full analy
 
 More about me: [LinkedIn](https://www.linkedin.com/in/nicolecdressler/)
 
-## Projects:
+## API Integration and Visualization:
 
-### Data Analysis and Visualisation:
+With <strong>Flask-Restful</strong>:
 
-With Python:
+  * [WomensBoulder](https://github.com/ndressler/Data_Science_Portfolio/tree/main/WomensBoulder): Flask RESTful API and Tableau EDA VIsualization.
 
-* [KeepItOn](https://github.com/ndressler/Data_Science_Portfolio/tree/main/KeepItOn): EDA and Task Analysis Assignment made with Python (Pandas, Seaborn and Matplotlib).
+## Data Analysis and Visualisation:
 
-With SQL:
+With <strong>Python</strong>:
 
-* [CocktailsDE](https://github.com/ndressler/Data_Science_Portfolio/tree/main/Cocktails_SQL_Analysis): Task Analysis Challenge made with PostgreSQL.
+  * [KeepItOn](https://github.com/ndressler/Data_Science_Portfolio/tree/main/KeepItOn): EDA and Task Analysis Assignment made with Python (Pandas, Seaborn and Matplotlib).
 
-### API Integration and Visualization Enhancement:
+With <strong>SQL</strong>:
 
-With Flask-Restful:
+  * [CocktailsDE](https://github.com/ndressler/Data_Science_Portfolio/tree/main/Cocktails_SQL_Analysis): Task Analysis Challenge made with PostgreSQL.
 
-* [WomensBoulder](https://github.com/ndressler/Data_Science_Portfolio/tree/main/WomensBoulder): Flask RESTful API and Tableau EDA VIsualization.
+With Spreasheets & Slides:
+
+  * [BoulderSandS](https://github.com/ndressler/Data_Science_Portfolio/tree/main/BoulderSandS): Data Cleaning and EDA made with Google Spreadsheets and Slides.
