@@ -35,15 +35,15 @@ WomensBoulder/<br>
 │   └── raw_data.json    # Raw data file<br>
 │<br>
 ├── scripts/<br>
-│   ├── __init__.py__            # Init file<br>
-│   ├── data_loader.py__            # Read and parse the JSON file and returns the loaded data<br>
-│   ├── data_resources.py__            # Contains Flask-RESTful resources that handles requests<br>
-│   └── process_data.py__            # Cleans and organized data for use<br>
+│   ├── __ init __.py            # Init file<br>
+│   ├── data_loader.py            # Read and parse the JSON file and returns the loaded data<br>
+│   ├── data_resources.py           # Contains Flask-RESTful resources that handles requests<br>
+│   └── process_data.py           # Cleans and organized data for use<br>
 │<br>
 ├── app.py      # Initializes a Flask app and creates a Flask-RESTful API<br>
-├── requirements.txt<br>   # Requirements of the application<br>
+├── requirements.txt  # Requirements of the application<br>
 ├── LICENSE<br>
-└── README.md                              # You are here<br
+└── README.md                              # You are here
 
 ## Getting Started
 
