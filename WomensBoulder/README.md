@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [About the Project](#about-the-project)
-- [Tableau Visualization](#tableau-visualization)
+- [Power BI Visualization](#powerbi-visualization)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Endpoints](#endpoints)
@@ -15,13 +15,13 @@
 
 This API stores and serves data extracted from the <a href="https://www.ifsc-climbing.org/" target="_blank">IFSC Climbing website</a>, specifically focusing on women's boulder World Cup events since the introduction of the points system in 2007. The International Federation of Sport Climbing (IFSC) is the international governing body for the sport of competitive climbing.
 
-The purpose of this API is to facilitate data analysis and visualization of women's boulder World Cup competitions. It is particularly useful for exploratory data analysis (EDA) and visualization tasks, the second part of the project is a data visualization presentation on Tableau, you can find the link below.
+The purpose of this API is to facilitate data analysis and visualization of women's boulder World Cup competitions. It is particularly useful for exploratory data analysis (EDA) and visualization tasks, the second part of the project is a data visualization presentation on Power BI, you can find the link below.
 
-## Tableau Visualization
+## Power BI Visualization
 
-In addition to the API, there is a visualization project created in Tableau using the data obtained from this API. The Tableau visualization provides interactive visualizations and insights into women's boulder World Cup competitions. You can explore trends, performance metrics, and other insights through the visualizations.
+In addition to the API, there is a visualization project created in Power BI using the data obtained from this API. The Power BI visualization provides interactive visualizations and insights into women's boulder World Cup competitions. You can explore trends, performance metrics, and other insights through the visualizations.
 
-To access the Tableau visualization project, please visit [link_to_tableau_project](link_to_tableau_project).
+To access the Power BIableau visualization project, please visit [link_to_powerbi_project](link_to_powerbi_project).
 
 ## Project Structure
 
@@ -31,7 +31,6 @@ WomensBoulder/<br>
 │<br>
 ├── data/<br>
 │   ├── data.json        # Cleaned JSON data, main data file<br>
-│   ├── data.csv        # Cleaned CSV data<br>
 │   └── raw_data.json    # Raw data file<br>
 │<br>
 ├── scripts/<br>
