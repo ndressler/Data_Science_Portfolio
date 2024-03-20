@@ -1,11 +1,11 @@
 [
   {
-    "id": 116,
     "competition": "IFSC WORLD CUP HACHIOJI 2023",
     "city": "HACHIOJI",
     "year": 2023,
     "dates": "21 APRIL - 23 APRIL 2023",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "BROOKE",
@@ -693,12 +693,12 @@
     ]
   },
   {
-    "id": 115,
     "competition": "IFSC WORLD CUP SEOUL 2023",
     "city": "SEOUL",
     "year": 2023,
     "dates": "28 APRIL - 30 APRIL 2023",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "MIHO",
@@ -1404,12 +1404,12 @@
     ]
   },
   {
-    "id": 114,
     "competition": "IFSC WORLD CUP SALT LAKE CITY 2023",
     "city": "SALT LAKE CITY",
     "year": 2023,
     "dates": "19 MAY - 21 MAY 2023",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "NATALIA",
@@ -1962,12 +1962,12 @@
     ]
   },
   {
-    "id": 113,
     "competition": "IFSC WORLD CUP PRAGUE 2023",
     "city": "PRAGUE",
     "year": 2023,
     "dates": "02 JUNE - 04 JUNE 2023",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ORIANE",
@@ -2628,12 +2628,12 @@
     ]
   },
   {
-    "id": 112,
     "competition": "IFSC WORLD CUP BRIXEN 2023",
     "city": "BRIXEN",
     "year": 2023,
     "dates": "09 JUNE - 11 JUNE 2023",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "NATALIA",
@@ -3348,12 +3348,12 @@
     ]
   },
   {
-    "id": 111,
     "competition": "IFSC WORLD CUP INNSBRUCK 2023",
     "city": "INNSBRUCK",
     "year": 2023,
     "dates": "14 JUNE - 18 JUNE 2023",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JANJA",
@@ -4185,12 +4185,12 @@
     ]
   },
   {
-    "id": 110,
     "competition": "IFSC WORLD CHAMPIONSHIPS BERN 2023",
     "city": "BERN",
     "year": 2023,
     "dates": "01 AUGUST - 12 AUGUST 2023",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JANJA",
@@ -5184,12 +5184,12 @@
     ]
   },
   {
-    "id": 109,
     "competition": "IFSC - CLIMBING WORLD CUP (B) - MEIRINGEN (SUI) 2022",
     "city": "MEIRINGEN",
     "year": 2022,
     "dates": "08 APRIL - 10 APRIL 2022",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JANJA",
@@ -5940,12 +5940,12 @@
     ]
   },
   {
-    "id": 108,
     "competition": "IFSC - CLIMBING WORLD CUP (B,S) - SEOUL (KOR) 2022",
     "city": "SEOUL",
     "year": 2022,
     "dates": "06 MAY - 08 MAY 2022",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "NATALIA",
@@ -6444,12 +6444,12 @@
     ]
   },
   {
-    "id": 107,
     "competition": "IFSC - CLIMBING WORLD CUP (B,S) - SALT LAKE CITY (USA) 2022",
     "city": "SALT LAKE CITY",
     "year": 2022,
     "dates": "20 MAY - 22 MAY 2022",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "NATALIA",
@@ -6984,12 +6984,12 @@
     ]
   },
   {
-    "id": 106,
     "competition": "IFSC - CLIMBING WORLD CUP (B,S) - SALT LAKE CITY (USA) 2022",
     "city": "SALT LAKE CITY",
     "year": 2022,
     "dates": "27 MAY - 29 MAY 2022",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "NATALIA",
@@ -7488,12 +7488,12 @@
     ]
   },
   {
-    "id": 105,
     "competition": "IFSC - CLIMBING WORLD CUP (B) - BRIXEN (ITA) 2022",
     "city": "BRIXEN",
     "year": 2022,
     "dates": "10 JUNE - 12 JUNE 2022",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "NATALIA",
@@ -8217,12 +8217,12 @@
     ]
   },
   {
-    "id": 104,
     "competition": "IFSC - CLIMBING WORLD CUP (B,L) - INNSBRUCK (AUT) 2022",
     "city": "INNSBRUCK",
     "year": 2022,
     "dates": "22 JUNE - 26 JUNE 2022",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "NATALIA",
@@ -9108,12 +9108,12 @@
     ]
   },
   {
-    "id": 103,
     "competition": "IFSC - CLIMBING WORLD CUP (B) - MEIRINGEN (SUI) 2021",
     "city": "MEIRINGEN",
     "year": 2021,
     "dates": "16 APRIL - 17 APRIL 2021",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JANJA",
@@ -9747,12 +9747,12 @@
     ]
   },
   {
-    "id": 102,
     "competition": "IFSC - CLIMBING WORLD CUP (B) - SALT LAKE CITY (USA) 2021",
     "city": "SALT LAKE CITY",
     "year": 2021,
     "dates": "21 MAY - 22 MAY 2021",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "NATALIA",
@@ -10206,12 +10206,12 @@
     ]
   },
   {
-    "id": 101,
     "competition": "IFSC - CLIMBING WORLD CUP (B,S) - SALT LAKE CITY (USA) 2021",
     "city": "SALT LAKE CITY",
     "year": 2021,
     "dates": "28 MAY - 30 MAY 2021",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "NATALIA",
@@ -10674,12 +10674,12 @@
     ]
   },
   {
-    "id": 100,
     "competition": "IFSC - CLIMBING WORLD CUP (B,L) - INNSBRUCK (AUT) 2021",
     "city": "INNSBRUCK",
     "year": 2021,
     "dates": "23 JUNE - 26 JUNE 2021",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JANJA",
@@ -11484,12 +11484,12 @@
     ]
   },
   {
-    "id": 99,
     "competition": "IFSC - CLIMBING WORLD CHAMPIONSHIPS (B,L,S) - MOSCOW 2021",
     "city": "MOSCOW",
     "year": 2021,
     "dates": "16 SEPTEMBER - 21 SEPTEMBER 2021",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "NATALIA",
@@ -12240,12 +12240,12 @@
     ]
   },
   {
-    "id": 98,
     "competition": "IFSC EUROPE - CONTINENTAL CHAMPIONSHIPS (B,S,L,C) - MOSCOW (RUS) 2020",
     "city": "MOSCOW",
     "year": 2020,
     "dates": "21 NOVEMBER - 29 NOVEMBER 2020",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "VIKTORIIA",
@@ -12555,12 +12555,12 @@
     ]
   },
   {
-    "id": 97,
     "competition": "IFSC CLIMBING WORLDCUP (B) - MEIRINGEN (SUI) 2019",
     "city": "MEIRINGEN",
     "year": 2019,
     "dates": "05 APRIL - 06 APRIL 2019",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JANJA",
@@ -13464,12 +13464,12 @@
     ]
   },
   {
-    "id": 96,
     "competition": "IFSC CLIMBING WORLDCUP (B,S) - MOSCOW (RUS) 2019",
     "city": "MOSCOW",
     "year": 2019,
     "dates": "12 APRIL - 14 APRIL 2019",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JANJA",
@@ -14301,12 +14301,12 @@
     ]
   },
   {
-    "id": 95,
     "competition": "IFSC CLIMBING WORLDCUP (B,S) - CHONGQING (CHN) 2019",
     "city": "CHONGQING",
     "year": 2019,
     "dates": "26 APRIL - 28 APRIL 2019",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JANJA",
@@ -15075,12 +15075,12 @@
     ]
   },
   {
-    "id": 94,
     "competition": "IFSC CLIMBING WORLDCUP (B,S) - WUJIANG (CHN) 2019",
     "city": "WUJIANG",
     "year": 2019,
     "dates": "03 MAY - 05 MAY 2019",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JANJA",
@@ -15831,12 +15831,12 @@
     ]
   },
   {
-    "id": 93,
     "competition": "IFSC CLIMBING WORLDCUP (B) - MUNICH (GER) 2019",
     "city": "MUNICH",
     "year": 2019,
     "dates": "18 MAY - 19 MAY 2019",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JANJA",
@@ -16641,12 +16641,12 @@
     ]
   },
   {
-    "id": 92,
     "competition": "IFSC CLIMBING WORLDCUP (B) - VAIL (USA) 2019",
     "city": "VAIL",
     "year": 2019,
     "dates": "07 JUNE - 08 JUNE 2019",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JANJA",
@@ -17145,12 +17145,12 @@
     ]
   },
   {
-    "id": 91,
     "competition": "IFSC CLIMBING WORLD CHAMPIONSHIPS - HACHIOJI (JPN) 2019",
     "city": "HACHIOJI",
     "year": 2019,
     "dates": "11 AUGUST - 21 AUGUST 2019",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JANJA",
@@ -17955,12 +17955,12 @@
     ]
   },
   {
-    "id": 90,
     "competition": "IFSC CLIMBING WORLDCUP (B) - MEIRINGEN (SUI) 2018",
     "city": "MEIRINGEN",
     "year": 2018,
     "dates": "13 APRIL - 14 APRIL 2018",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "MIHO",
@@ -18855,12 +18855,12 @@
     ]
   },
   {
-    "id": 89,
     "competition": "IFSC CLIMBING WORLDCUP (B,S) - MOSCOW (RUS) 2018",
     "city": "MOSCOW",
     "year": 2018,
     "dates": "21 APRIL - 22 APRIL 2018",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JANJA",
@@ -19764,12 +19764,12 @@
     ]
   },
   {
-    "id": 88,
     "competition": "IFSC CLIMBING WORLDCUP (B,S) - CHONGQING (CHN) 2018",
     "city": "CHONGQING",
     "year": 2018,
     "dates": "05 MAY - 06 MAY 2018",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "AKIYO",
@@ -20196,12 +20196,12 @@
     ]
   },
   {
-    "id": 87,
     "competition": "IFSC CLIMBING WORLDCUP (B,S) - TAI'AN (CHN) 2018",
     "city": "TAI'AN",
     "year": 2018,
     "dates": "12 MAY - 13 MAY 2018",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "AKIYO",
@@ -20628,12 +20628,12 @@
     ]
   },
   {
-    "id": 86,
     "competition": "IFSC CLIMBING WORLDCUP (B) - HACHIOJI (JPN) 2018",
     "city": "HACHIOJI",
     "year": 2018,
     "dates": "02 JUNE - 03 JUNE 2018",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "AKIYO",
@@ -21249,12 +21249,12 @@
     ]
   },
   {
-    "id": 85,
     "competition": "IFSC CLIMBING WORLDCUP (B) - VAIL (USA) 2018",
     "city": "VAIL",
     "year": 2018,
     "dates": "08 JUNE - 09 JUNE 2018",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ALEX",
@@ -21780,12 +21780,12 @@
     ]
   },
   {
-    "id": 84,
     "competition": "IFSC CLIMBING WORLDCUP (B) - MUNICH (GER) 2018",
     "city": "MUNICH",
     "year": 2018,
     "dates": "17 AUGUST - 18 AUGUST 2018",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JANJA",
@@ -22707,12 +22707,12 @@
     ]
   },
   {
-    "id": 83,
     "competition": "IFSC CLIMBING WORLD CHAMPIONSHIPS - INNSBRUCK (AUT) 2018",
     "city": "INNSBRUCK",
     "year": 2018,
     "dates": "06 SEPTEMBER - 16 SEPTEMBER 2018",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JANJA",
@@ -23724,12 +23724,12 @@
     ]
   },
   {
-    "id": 82,
     "competition": "IFSC CLIMBING WORLDCUP (B) - MEIRINGEN (SUI) 2017",
     "city": "MEIRINGEN",
     "year": 2017,
     "dates": "07 APRIL - 08 APRIL 2017",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "SHAUNA",
@@ -24435,12 +24435,12 @@
     ]
   },
   {
-    "id": 81,
     "competition": "IFSC CLIMBING WORLDCUP (B,S) - CHONGQING (CHN) 2017",
     "city": "CHONGQING",
     "year": 2017,
     "dates": "22 APRIL - 23 APRIL 2017",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JANJA",
@@ -24822,12 +24822,12 @@
     ]
   },
   {
-    "id": 80,
     "competition": "IFSC CLIMBING WORLDCUP (B,S) - NANJING (CHN) 2017",
     "city": "NANJING",
     "year": 2017,
     "dates": "29 APRIL - 30 APRIL 2017",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "SHAUNA",
@@ -25281,12 +25281,12 @@
     ]
   },
   {
-    "id": 79,
     "competition": "IFSC CLIMBING WORLDCUP (B) - HACHIOJI, TOKYO (JPN) 2017",
     "city": "HACHIOJI, TOKYO",
     "year": 2017,
     "dates": "06 MAY - 07 MAY 2017",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JANJA",
@@ -25776,12 +25776,12 @@
     ]
   },
   {
-    "id": 78,
     "competition": "IFSC CLIMBING WORLDCUP (B) - VAIL (USA) 2017",
     "city": "VAIL",
     "year": 2017,
     "dates": "09 JUNE - 10 JUNE 2017",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "SHAUNA",
@@ -26280,12 +26280,12 @@
     ]
   },
   {
-    "id": 77,
     "competition": "IFSC CLIMBING WORLDCUP (B) - NAVI MUMBAI (IND) 2017",
     "city": "NAVI MUMBAI",
     "year": 2017,
     "dates": "24 JUNE - 25 JUNE 2017",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "SHAUNA",
@@ -26658,12 +26658,12 @@
     ]
   },
   {
-    "id": 76,
     "competition": "IFSC CLIMBING WORLDCUP (B) - MUNICH (GER) 2017",
     "city": "MUNICH",
     "year": 2017,
     "dates": "18 AUGUST - 19 AUGUST 2017",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JANJA",
@@ -27693,12 +27693,12 @@
     ]
   },
   {
-    "id": 75,
     "competition": "IFSC CLIMBING WORLDCUP (B) - MEIRINGEN (SUI) 2016",
     "city": "MEIRINGEN",
     "year": 2016,
     "dates": "15 APRIL - 16 APRIL 2016",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "SHAUNA",
@@ -28233,12 +28233,12 @@
     ]
   },
   {
-    "id": 74,
     "competition": "IFSC CLIMBING WORLDCUP (B) - KAZO (JPN) 2016",
     "city": "KAZO",
     "year": 2016,
     "dates": "23 APRIL - 24 APRIL 2016",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "SHAUNA",
@@ -28719,12 +28719,12 @@
     ]
   },
   {
-    "id": 73,
     "competition": "IFSC CLIMBING WORLDCUP (B, S) - CHONGQING (CHN) 2016",
     "city": "CHONGQING",
     "year": 2016,
     "dates": "30 APRIL - 01 MAY 2016",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "SHAUNA",
@@ -29061,12 +29061,12 @@
     ]
   },
   {
-    "id": 72,
     "competition": "IFSC CLIMBING WORLDCUP (B) - NAVI MUMBAI (IND) 2016",
     "city": "NAVI MUMBAI",
     "year": 2016,
     "dates": "14 MAY - 15 MAY 2016",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "MIHO",
@@ -29412,12 +29412,12 @@
     ]
   },
   {
-    "id": 71,
     "competition": "IFSC CLIMBING WORLDCUP (B) - INNSBRUCK (AUT) 2016",
     "city": "INNSBRUCK",
     "year": 2016,
     "dates": "20 MAY - 21 MAY 2016",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "SHAUNA",
@@ -30033,12 +30033,12 @@
     ]
   },
   {
-    "id": 70,
     "competition": "IFSC CLIMBING WORLDCUP (B) - VAIL (USA) 2016",
     "city": "VAIL",
     "year": 2016,
     "dates": "10 JUNE - 11 JUNE 2016",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "MEGAN",
@@ -30465,12 +30465,12 @@
     ]
   },
   {
-    "id": 69,
     "competition": "IFSC CLIMBING WORLDCUP (B) - MUNICH (GER) 2016",
     "city": "MUNICH",
     "year": 2016,
     "dates": "12 AUGUST - 13 AUGUST 2016",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "MIHO",
@@ -31230,12 +31230,12 @@
     ]
   },
   {
-    "id": 68,
     "competition": "IFSC CLIMBING WORLD CHAMPIONSHIPS - PARIS (FRA) 2016",
     "city": "PARIS",
     "year": 2016,
     "dates": "14 SEPTEMBER - 18 SEPTEMBER 2016",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "PETRA",
@@ -32022,12 +32022,12 @@
     ]
   },
   {
-    "id": 67,
     "competition": "IFSC CLIMBING WORLDCUP (B) - TORONTO (CAN) 2015",
     "city": "TORONTO",
     "year": 2015,
     "dates": "30 MAY - 31 MAY 2015",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ANNA",
@@ -32562,12 +32562,12 @@
     ]
   },
   {
-    "id": 66,
     "competition": "IFSC CLIMBING WORLDCUP (B) - VAIL (USA) 2015",
     "city": "VAIL",
     "year": 2015,
     "dates": "05 JUNE - 06 JUNE 2015",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "MEGAN",
@@ -33039,16 +33039,16 @@
     ]
   },
   {
-    "id": 65,
     "competition": "IFSC CLIMBING WORLDCUP (B,S) - CHONGQING (CHN) 2015",
     "city": "CHONGQING",
     "year": 2015,
     "dates": "20 JUNE - 21 JUNE 2015",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
-        "NAME": "AKIYO",
-        "": "NOGUCHI",
+        "Name": "AKIYO",
+        "Surname": "NOGUCHI",
         "Country": "JPN",
         "Qualification": "5T5 5B5",
         "Semi-Final": "4T6 4B4",
@@ -33056,8 +33056,8 @@
       },
       {
         "Rank": 2,
-        "NAME": "MIHO",
-        "": "NONAKA",
+        "Name": "MIHO",
+        "Surname": "NONAKA",
         "Country": "JPN",
         "Qualification": "5T6 5B6",
         "Semi-Final": "3T3 4B4",
@@ -33065,8 +33065,8 @@
       },
       {
         "Rank": 3,
-        "NAME": "SHAUNA",
-        "": "COXSEY",
+        "Name": "SHAUNA",
+        "Surname": "COXSEY",
         "Country": "GBR",
         "Qualification": "5T7 5B7",
         "Semi-Final": "3T9 3B6",
@@ -33074,8 +33074,8 @@
       },
       {
         "Rank": 4,
-        "NAME": "AYA",
-        "": "ONOE",
+        "Name": "AYA",
+        "Surname": "ONOE",
         "Country": "JPN",
         "Qualification": "5T7 5B7",
         "Semi-Final": "3T8 4B6",
@@ -33083,8 +33083,8 @@
       },
       {
         "Rank": 5,
-        "NAME": "MONIKA",
-        "": "RETSCHY",
+        "Name": "MONIKA",
+        "Surname": "RETSCHY",
         "Country": "GER",
         "Qualification": "4T5 5B6",
         "Semi-Final": "3T6 4B5",
@@ -33092,8 +33092,8 @@
       },
       {
         "Rank": 6,
-        "NAME": "SOL",
-        "": "SA",
+        "Name": "SOL",
+        "Surname": "SA",
         "Country": "KOR",
         "Qualification": "5T7 5B7",
         "Semi-Final": "3T11 4B10",
@@ -33101,8 +33101,8 @@
       },
       {
         "Rank": 7,
-        "NAME": "AIKA",
-        "": "TAJIMA",
+        "Name": "AIKA",
+        "Surname": "TAJIMA",
         "Country": "JPN",
         "Qualification": "4T5 5B6",
         "Semi-Final": "2T2 4B4",
@@ -33110,8 +33110,8 @@
       },
       {
         "Rank": 8,
-        "NAME": "MELISSA",
-        "": "LE NEVE",
+        "Name": "MELISSA",
+        "Surname": "LE NEVE",
         "Country": "FRA",
         "Qualification": "4T6 5B6",
         "Semi-Final": "2T2 3B5",
@@ -33119,8 +33119,8 @@
       },
       {
         "Rank": 9,
-        "NAME": "KATHARINA",
-        "": "SAURWEIN",
+        "Name": "KATHARINA",
+        "Surname": "SAURWEIN",
         "Country": "AUT",
         "Qualification": "5T6 5B5",
         "Semi-Final": "2T3 3B5",
@@ -33128,8 +33128,8 @@
       },
       {
         "Rank": 10,
-        "NAME": "PETRA",
-        "": "KLINGLER",
+        "Name": "PETRA",
+        "Surname": "KLINGLER",
         "Country": "SUI",
         "Qualification": "5T5 5B5",
         "Semi-Final": "2T4 4B5",
@@ -33137,8 +33137,8 @@
       },
       {
         "Rank": 11,
-        "NAME": "YUKA",
-        "": "KOBAYASHI",
+        "Name": "YUKA",
+        "Surname": "KOBAYASHI",
         "Country": "JPN",
         "Qualification": "5T6 5B6",
         "Semi-Final": "2T4 4B6",
@@ -33146,8 +33146,8 @@
       },
       {
         "Rank": 12,
-        "NAME": "STACEY",
-        "": "WELDON",
+        "Name": "STACEY",
+        "Surname": "WELDON",
         "Country": "CAN",
         "Qualification": "4T6 5B6",
         "Semi-Final": "1T1 2B4",
@@ -33155,8 +33155,8 @@
       },
       {
         "Rank": 13,
-        "NAME": "BERIT",
-        "": "SCHWAIGER",
+        "Name": "BERIT",
+        "Surname": "SCHWAIGER",
         "Country": "AUT",
         "Qualification": "5T5 5B5",
         "Semi-Final": "1T2 2B3",
@@ -33164,8 +33164,8 @@
       },
       {
         "Rank": 14,
-        "NAME": "JULIJA",
-        "": "KRUDER",
+        "Name": "JULIJA",
+        "Surname": "KRUDER",
         "Country": "SLO",
         "Qualification": "5T5 5B5",
         "Semi-Final": "1T3 4B9",
@@ -33173,8 +33173,8 @@
       },
       {
         "Rank": 15,
-        "NAME": "KATARZYNA",
-        "": "EKWINSKA",
+        "Name": "KATARZYNA",
+        "Surname": "EKWINSKA",
         "Country": "POL",
         "Qualification": "4T6 4B6",
         "Semi-Final": "1T3 3B7",
@@ -33182,8 +33182,8 @@
       },
       {
         "Rank": 16,
-        "NAME": "MINSEON",
-        "": "KIM",
+        "Name": "MINSEON",
+        "Surname": "KIM",
         "Country": "KOR",
         "Qualification": "4T6 5B6",
         "Semi-Final": "0T 4B13",
@@ -33191,8 +33191,8 @@
       },
       {
         "Rank": 17,
-        "NAME": "DI",
-        "": "NIU",
+        "Name": "DI",
+        "Surname": "NIU",
         "Country": "CHN",
         "Qualification": "3T3 5B8",
         "Semi-Final": "0T 3B3",
@@ -33200,8 +33200,8 @@
       },
       {
         "Rank": 18,
-        "NAME": "VERA",
-        "": "ZIJLSTRA",
+        "Name": "VERA",
+        "Surname": "ZIJLSTRA",
         "Country": "NED",
         "Qualification": "5T8 5B5",
         "Semi-Final": "0T 3B4",
@@ -33209,8 +33209,8 @@
       },
       {
         "Rank": 19,
-        "NAME": "TAMARA",
-        "": "ULZHABAYEVA",
+        "Name": "TAMARA",
+        "Surname": "ULZHABAYEVA",
         "Country": "KAZ",
         "Qualification": "3T3 5B5",
         "Semi-Final": "0T 2B2",
@@ -33218,8 +33218,8 @@
       },
       {
         "Rank": 20,
-        "NAME": "RONG",
-        "": "JIANG",
+        "Name": "RONG",
+        "Surname": "JIANG",
         "Country": "CHN",
         "Qualification": "4T5 5B6",
         "Semi-Final": "0T 2B3",
@@ -33227,8 +33227,8 @@
       },
       {
         "Rank": 21,
-        "NAME": "SIERRA",
-        "": "BLAIR-COYLE",
+        "Name": "SIERRA",
+        "Surname": "BLAIR-COYLE",
         "Country": "USA",
         "Qualification": "3T4 5B6",
         "Semi-Final": null,
@@ -33236,8 +33236,8 @@
       },
       {
         "Rank": 21,
-        "NAME": "LEAH",
-        "": "CRANE",
+        "Name": "LEAH",
+        "Surname": "CRANE",
         "Country": "GBR",
         "Qualification": "3T4 5B6",
         "Semi-Final": null,
@@ -33245,8 +33245,8 @@
       },
       {
         "Rank": 23,
-        "NAME": "MIWA",
-        "": "OBA",
+        "Name": "MIWA",
+        "Surname": "OBA",
         "Country": "JPN",
         "Qualification": "3T6 4B5",
         "Semi-Final": null,
@@ -33254,8 +33254,8 @@
       },
       {
         "Rank": 24,
-        "NAME": "SEUNGHYUN",
-        "": "KIM",
+        "Name": "SEUNGHYUN",
+        "Surname": "KIM",
         "Country": "KOR",
         "Qualification": "3T14 5B18",
         "Semi-Final": null,
@@ -33263,8 +33263,8 @@
       },
       {
         "Rank": 25,
-        "NAME": "KAORI",
-        "": "HOSONO",
+        "Name": "KAORI",
+        "Surname": "HOSONO",
         "Country": "JPN",
         "Qualification": "2T2 5B5",
         "Semi-Final": null,
@@ -33272,8 +33272,8 @@
       },
       {
         "Rank": 26,
-        "NAME": "PUNTARIKA",
-        "": "TUNYAVANICH",
+        "Name": "PUNTARIKA",
+        "Surname": "TUNYAVANICH",
         "Country": "THA",
         "Qualification": "2T2 5B7",
         "Semi-Final": null,
@@ -33281,8 +33281,8 @@
       },
       {
         "Rank": 27,
-        "NAME": "MINGXIN, JUDITH",
-        "": "SIM",
+        "Name": "MINGXIN, JUDITH",
+        "Surname": "SIM",
         "Country": "SGP",
         "Qualification": "2T2 4B6",
         "Semi-Final": null,
@@ -33290,8 +33290,8 @@
       },
       {
         "Rank": 28,
-        "NAME": "CLAIRE",
-        "": "KASSAY",
+        "Name": "CLAIRE",
+        "Surname": "KASSAY",
         "Country": "AUS",
         "Qualification": "2T2 4B7",
         "Semi-Final": null,
@@ -33299,8 +33299,8 @@
       },
       {
         "Rank": 29,
-        "NAME": "GOH HUI CHEN",
-        "": "JANET",
+        "Name": "GOH HUI CHEN",
+        "Surname": "JANET",
         "Country": "SGP",
         "Qualification": "2T2 3B3",
         "Semi-Final": null,
@@ -33308,8 +33308,8 @@
       },
       {
         "Rank": 30,
-        "NAME": "ZHUOMA",
-        "": "PUBU",
+        "Name": "ZHUOMA",
+        "Surname": "PUBU",
         "Country": "CHN",
         "Qualification": "2T2 3B5",
         "Semi-Final": null,
@@ -33317,8 +33317,8 @@
       },
       {
         "Rank": 31,
-        "NAME": "ALEXANDRA",
-        "": "ZHIZNEVSKAYA",
+        "Name": "ALEXANDRA",
+        "Surname": "ZHIZNEVSKAYA",
         "Country": "KAZ",
         "Qualification": "2T2 2B2",
         "Semi-Final": null,
@@ -33326,8 +33326,8 @@
       },
       {
         "Rank": 32,
-        "NAME": "LAMU",
-        "": "RENQING",
+        "Name": "LAMU",
+        "Surname": "RENQING",
         "Country": "CHN",
         "Qualification": "2T3 5B8",
         "Semi-Final": null,
@@ -33335,8 +33335,8 @@
       },
       {
         "Rank": 33,
-        "NAME": "SOFIA",
-        "": "HEINZE CACHO",
+        "Name": "SOFIA",
+        "Surname": "HEINZE CACHO",
         "Country": "MEX",
         "Qualification": "2T7 3B7",
         "Semi-Final": null,
@@ -33345,12 +33345,12 @@
     ]
   },
   {
-    "id": 64,
     "competition": "IFSC CLIMBING WORLDCUP (B,S) - HAIYANG (CHN) 2015",
     "city": "HAIYANG",
     "year": 2015,
     "dates": "26 JUNE - 27 JUNE 2015",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "PETRA",
@@ -33633,12 +33633,12 @@
     ]
   },
   {
-    "id": 63,
     "competition": "IFSC CLIMBING WORLDCUP (B) - MUNICH (GER) 2015",
     "city": "MUNICH",
     "year": 2015,
     "dates": "14 AUGUST - 15 AUGUST 2015",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "SHAUNA",
@@ -34416,12 +34416,12 @@
     ]
   },
   {
-    "id": 62,
     "competition": "IFSC CLIMBING WORLDCUP (B,S) - CHONGQING (CHN) 2014",
     "city": "CHONGQING",
     "year": 2014,
     "dates": "26 APRIL - 27 APRIL 2014",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JULIANE",
@@ -34767,12 +34767,12 @@
     ]
   },
   {
-    "id": 61,
     "competition": "IFSC CLIMBING WORLDCUP (B,S) - BAKU (AZE) 2014",
     "city": "BAKU",
     "year": 2014,
     "dates": "03 MAY - 04 MAY 2014",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ANNA",
@@ -35118,12 +35118,12 @@
     ]
   },
   {
-    "id": 60,
     "competition": "IFSC CLIMBING WORLDCUP (B) - GRINDELWALD (SUI) 2014",
     "city": "GRINDELWALD",
     "year": 2014,
     "dates": "10 MAY - 11 MAY 2014",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "SHAUNA",
@@ -35685,12 +35685,12 @@
     ]
   },
   {
-    "id": 59,
     "competition": "IFSC CLIMBING WORLDCUP (B) - INNSBRUCK (AUT) 2014",
     "city": "INNSBRUCK",
     "year": 2014,
     "dates": "16 MAY - 17 MAY 2014",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "SHAUNA",
@@ -36324,12 +36324,12 @@
     ]
   },
   {
-    "id": 58,
     "competition": "IFSC CLIMBING WORLDCUP (B) - TORONTO (CAN) 2014",
     "city": "TORONTO",
     "year": 2014,
     "dates": "31 MAY - 01 JUNE 2014",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "AKIYO",
@@ -36693,12 +36693,12 @@
     ]
   },
   {
-    "id": 57,
     "competition": "IFSC CLIMBING WORLDCUP (B) - VAIL (USA) 2014",
     "city": "VAIL",
     "year": 2014,
     "dates": "06 JUNE - 07 JUNE 2014",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "AKIYO",
@@ -37098,12 +37098,12 @@
     ]
   },
   {
-    "id": 56,
     "competition": "IFSC CLIMBING WORLDCUP (L, B, S) - HAIYANG (CHN) 2014",
     "city": "HAIYANG",
     "year": 2014,
     "dates": "20 JUNE - 22 JUNE 2014",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "AKIYO",
@@ -37305,12 +37305,12 @@
     ]
   },
   {
-    "id": 55,
     "competition": "IFSC CLIMBING WORLDCUP (B) - LAVAL (FRA) 2014",
     "city": "LAVAL",
     "year": 2014,
     "dates": "27 JUNE - 28 JUNE 2014",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "AKIYO",
@@ -37692,12 +37692,12 @@
     ]
   },
   {
-    "id": 54,
     "competition": "IFSC CLIMBING WORLD CHAMPIONSHIP (B) - MUNICH (GER) 2014",
     "city": "MUNICH",
     "year": 2014,
     "dates": "21 AUGUST - 23 AUGUST 2014",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JULIANE",
@@ -38421,12 +38421,12 @@
     ]
   },
   {
-    "id": 53,
     "competition": "IFSC CLIMBING WORLDCUP (B,S) - CHONGQING (CHN) 2013",
     "city": "CHONGQING",
     "year": 2013,
     "dates": "22 MARCH - 23 MARCH 2013",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ANNA",
@@ -38628,12 +38628,12 @@
     ]
   },
   {
-    "id": 52,
     "competition": "IFSC CLIMBING WORLDCUP (B) - MILLAU (FRA) 2013",
     "city": "MILLAU",
     "year": 2013,
     "dates": "05 APRIL - 06 APRIL 2013",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ANNA",
@@ -39051,12 +39051,12 @@
     ]
   },
   {
-    "id": 51,
     "competition": "IFSC CLIMBING WORLDCUP (B) - KITZBÜHEL (AUT) 2013",
     "city": "KITZBÜHEL",
     "year": 2013,
     "dates": "26 APRIL - 27 APRIL 2013",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ANNA",
@@ -39537,12 +39537,12 @@
     ]
   },
   {
-    "id": 50,
     "competition": "IFSC CLIMBING WORLDCUP (B) - LOG-DRAGOMER (SLO) 2013",
     "city": "LOG-DRAGOMER",
     "year": 2013,
     "dates": "11 MAY - 12 MAY 2013",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ANNA",
@@ -40005,12 +40005,12 @@
     ]
   },
   {
-    "id": 49,
     "competition": "IFSC CLIMBING WORLDCUP (B) - INNSBRUCK (AUT) 2013",
     "city": "INNSBRUCK",
     "year": 2013,
     "dates": "17 MAY - 18 MAY 2013",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JULIANE",
@@ -40518,12 +40518,12 @@
     ]
   },
   {
-    "id": 48,
     "competition": "IFSC CLIMBING WORLDCUP (B) - TORONTO (CAN) 2013",
     "city": "TORONTO",
     "year": 2013,
     "dates": "01 JUNE - 02 JUNE 2013",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ANNA",
@@ -40815,12 +40815,12 @@
     ]
   },
   {
-    "id": 47,
     "competition": "IFSC CLIMBING WORLDCUP (B) - VAIL (USA) 2013",
     "city": "VAIL",
     "year": 2013,
     "dates": "07 JUNE - 08 JUNE 2013",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ANNA",
@@ -41157,12 +41157,12 @@
     ]
   },
   {
-    "id": 46,
     "competition": "IFSC CLIMBING WORLDCUP (B) - MUNICH (GER) 2013",
     "city": "MUNICH",
     "year": 2013,
     "dates": "24 AUGUST - 25 AUGUST 2013",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ANNA",
@@ -41652,16 +41652,16 @@
     ]
   },
   {
-    "id": 45,
     "competition": "IFSC CLIMBING WORLDCUP (B,S) - CHONGQING (CHN) 2012",
     "city": "CHONGQING",
     "year": 2012,
     "dates": "13 APRIL - 14 APRIL 2012",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
-        "NAME": "AKIYO",
-        "": "NOGUCHI",
+        "Name": "AKIYO",
+        "Surame": "NOGUCHI",
         "Country": "JPN",
         "Qualification": "5T5 5B5",
         "Semi-Final": "2T2 4B5",
@@ -41669,8 +41669,8 @@
       },
       {
         "Rank": 2,
-        "NAME": "ANNA",
-        "": "STÖHR",
+        "Name": "ANNA",
+        "Surame": "STÖHR",
         "Country": "AUT",
         "Qualification": "5T5 5B5",
         "Semi-Final": "2T2 2B2",
@@ -41678,8 +41678,8 @@
       },
       {
         "Rank": 3,
-        "NAME": "JAIN",
-        "": "KIM",
+        "Name": "JAIN",
+        "Surame": "KIM",
         "Country": "KOR",
         "Qualification": "5T5 5B5",
         "Semi-Final": "1T1 3B5",
@@ -41687,8 +41687,8 @@
       },
       {
         "Rank": 4,
-        "NAME": "SHAUNA",
-        "": "COXSEY",
+        "Name": "SHAUNA",
+        "Surame": "COXSEY",
         "Country": "GBR",
         "Qualification": "5T7 5B6",
         "Semi-Final": "1T1 3B3",
@@ -41696,8 +41696,8 @@
       },
       {
         "Rank": 5,
-        "NAME": "CECILE",
-        "": "AVEZOU",
+        "Name": "CECILE",
+        "Surame": "AVEZOU",
         "Country": "FRA",
         "Qualification": "3T7 5B8",
         "Semi-Final": "1T1 2B2",
@@ -41705,8 +41705,8 @@
       },
       {
         "Rank": 6,
-        "NAME": "MINA",
-        "": "MARKOVIC",
+        "Name": "MINA",
+        "Surame": "MARKOVIC",
         "Country": "SLO",
         "Qualification": "3T4 5B5",
         "Semi-Final": "1T1 3B4",
@@ -41714,8 +41714,8 @@
       },
       {
         "Rank": 7,
-        "NAME": "MONIKA",
-        "": "RETSCHY",
+        "Name": "MONIKA",
+        "Surame": "RETSCHY",
         "Country": "GER",
         "Qualification": "3T3 5B5",
         "Semi-Final": "1T1 1B1",
@@ -41723,8 +41723,8 @@
       },
       {
         "Rank": 8,
-        "NAME": "ALEX",
-        "": "PUCCIO",
+        "Name": "ALEX",
+        "Surame": "PUCCIO",
         "Country": "USA",
         "Qualification": "5T5 5B5",
         "Semi-Final": "1T2 4B7",
@@ -41732,8 +41732,8 @@
       },
       {
         "Rank": 9,
-        "NAME": "MÉLANIE",
-        "": "SANDOZ",
+        "Name": "MÉLANIE",
+        "Surame": "SANDOZ",
         "Country": "FRA",
         "Qualification": "4T4 5B5",
         "Semi-Final": "1T2 3B5",
@@ -41741,8 +41741,8 @@
       },
       {
         "Rank": 10,
-        "NAME": "MOMOKA",
-        "": "ODA",
+        "Name": "MOMOKA",
+        "Surame": "ODA",
         "Country": "JPN",
         "Qualification": "4T5 5B5",
         "Semi-Final": "1T2 2B3",
@@ -41750,8 +41750,8 @@
       },
       {
         "Rank": 11,
-        "NAME": "YANA",
-        "": "CHERESHNEVA",
+        "Name": "YANA",
+        "Surame": "CHERESHNEVA",
         "Country": "RUS",
         "Qualification": "3T6 5B7",
         "Semi-Final": "1T4 3B7",
@@ -41759,8 +41759,8 @@
       },
       {
         "Rank": 12,
-        "NAME": "XUHUA",
-        "": "PAN",
+        "Name": "XUHUA",
+        "Surame": "PAN",
         "Country": "CHN",
         "Qualification": "0T 4B4",
         "Semi-Final": "1T4 2B7",
@@ -41768,8 +41768,8 @@
       },
       {
         "Rank": 13,
-        "NAME": "VERA",
-        "": "ZIJLSTRA",
+        "Name": "VERA",
+        "Surame": "ZIJLSTRA",
         "Country": "NED",
         "Qualification": "4T8 4B5",
         "Semi-Final": "1T5 1B5",
@@ -41777,8 +41777,8 @@
       },
       {
         "Rank": 14,
-        "NAME": "MELISSA",
-        "": "LE NEVE",
+        "Name": "MELISSA",
+        "Surame": "LE NEVE",
         "Country": "FRA",
         "Qualification": "3T4 5B5",
         "Semi-Final": "0T 3B7",
@@ -41786,8 +41786,8 @@
       },
       {
         "Rank": 15,
-        "NAME": "SOL",
-        "": "SA",
+        "Name": "SOL",
+        "Surame": "SA",
         "Country": "KOR",
         "Qualification": "4T5 5B9",
         "Semi-Final": "0T 2B7",
@@ -41795,8 +41795,8 @@
       },
       {
         "Rank": 16,
-        "NAME": "JULIANE",
-        "": "WURM",
+        "Name": "JULIANE",
+        "Surame": "WURM",
         "Country": "GER",
         "Qualification": "4T4 4B4",
         "Semi-Final": "0T 2B10",
@@ -41804,8 +41804,8 @@
       },
       {
         "Rank": 17,
-        "NAME": "MINA",
-        "": "LESLIE-WUJASTYK",
+        "Name": "MINA",
+        "Surame": "LESLIE-WUJASTYK",
         "Country": "GBR",
         "Qualification": "2T3 4B5",
         "Semi-Final": "0T 1B2",
@@ -41813,8 +41813,8 @@
       },
       {
         "Rank": 18,
-        "NAME": "LAMU",
-        "": "RENQING",
+        "Name": "LAMU",
+        "Surame": "RENQING",
         "Country": "CHN",
         "Qualification": "1T2 4B8",
         "Semi-Final": "0T 1B2",
@@ -41822,8 +41822,8 @@
       },
       {
         "Rank": 19,
-        "NAME": "RONG",
-        "": "JIANG",
+        "Name": "RONG",
+        "Surame": "JIANG",
         "Country": "CHN",
         "Qualification": "0T 3B4",
         "Semi-Final": "0T 0B",
@@ -41831,8 +41831,8 @@
       },
       {
         "Rank": 20,
-        "NAME": "WANGMU",
-        "": "RENZENG",
+        "Name": "WANGMU",
+        "Surame": "RENZENG",
         "Country": "CHN",
         "Qualification": "0T 1B3",
         "Semi-Final": "0T 0B",
@@ -41840,8 +41840,8 @@
       },
       {
         "Rank": 21,
-        "NAME": "WANGMU",
-        "": "GESANG",
+        "Name": "WANGMU",
+        "Surame": "GESANG",
         "Country": "CHN",
         "Qualification": "0T 0B",
         "Semi-Final": null,
@@ -41850,16 +41850,16 @@
     ]
   },
   {
-    "id": 44,
     "competition": "IFSC CLIMBING WORLDCUP (B) - LOG-DRAGOMER (SLO) 2012",
     "city": "LOG-DRAGOMER",
     "year": 2012,
     "dates": "13 APRIL - 14 APRIL 2012",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
-        "NAME": "MINA",
-        "": "MARKOVIC",
+        "Name": "MINA",
+        "Surame": "MARKOVIC",
         "Country": "SLO",
         "Qualification": "5T5 5B5",
         "Semi-Final": "3T3 4B5",
@@ -41867,8 +41867,8 @@
       },
       {
         "Rank": 2,
-        "NAME": "SHAUNA",
-        "": "COXSEY",
+        "Name": "SHAUNA",
+        "Surame": "COXSEY",
         "Country": "GBR",
         "Qualification": "5T5 5B5",
         "Semi-Final": "3T3 4B4",
@@ -41876,8 +41876,8 @@
       },
       {
         "Rank": 3,
-        "NAME": "ANNA",
-        "": "STÖHR",
+        "Name": "ANNA",
+        "Surame": "STÖHR",
         "Country": "AUT",
         "Qualification": "5T6 5B6",
         "Semi-Final": "4T9 4B4",
@@ -41885,8 +41885,8 @@
       },
       {
         "Rank": 4,
-        "NAME": "MOMOKA",
-        "": "ODA",
+        "Name": "MOMOKA",
+        "Surame": "ODA",
         "Country": "JPN",
         "Qualification": "5T7 5B5",
         "Semi-Final": "3T4 4B5",
@@ -41894,8 +41894,8 @@
       },
       {
         "Rank": 5,
-        "NAME": "AKIYO",
-        "": "NOGUCHI",
+        "Name": "AKIYO",
+        "Surame": "NOGUCHI",
         "Country": "JPN",
         "Qualification": "5T5 5B5",
         "Semi-Final": "2T2 3B3",
@@ -41903,8 +41903,8 @@
       },
       {
         "Rank": 6,
-        "NAME": "MELISSA",
-        "": "LE NEVE",
+        "Name": "MELISSA",
+        "Surame": "LE NEVE",
         "Country": "FRA",
         "Qualification": "5T7 5B6",
         "Semi-Final": "2T3 3B3",
@@ -41912,8 +41912,8 @@
       },
       {
         "Rank": 7,
-        "NAME": "ANNE-LAURE",
-        "": "CHEVRIER",
+        "Name": "ANNE-LAURE",
+        "Surame": "CHEVRIER",
         "Country": "FRA",
         "Qualification": "2T3 4B8",
         "Semi-Final": "2T4 3B5",
@@ -41921,8 +41921,8 @@
       },
       {
         "Rank": 8,
-        "NAME": "MÉLANIE",
-        "": "SANDOZ",
+        "Name": "MÉLANIE",
+        "Surame": "SANDOZ",
         "Country": "FRA",
         "Qualification": "5T7 5B5",
         "Semi-Final": "2T5 2B3",
@@ -41930,8 +41930,8 @@
       },
       {
         "Rank": 9,
-        "NAME": "TATIANA",
-        "": "SHEMULINKINA",
+        "Name": "TATIANA",
+        "Surame": "SHEMULINKINA",
         "Country": "RUS",
         "Qualification": "3T4 4B4",
         "Semi-Final": "2T6 2B2",
@@ -41939,8 +41939,8 @@
       },
       {
         "Rank": 10,
-        "NAME": "MAJA",
-        "": "STREMFELJ",
+        "Name": "MAJA",
+        "Surame": "STREMFELJ",
         "Country": "SLO",
         "Qualification": "5T7 5B5",
         "Semi-Final": "2T7 3B6",
@@ -41948,8 +41948,8 @@
       },
       {
         "Rank": 11,
-        "NAME": "JULIANE",
-        "": "WURM",
+        "Name": "JULIANE",
+        "Surame": "WURM",
         "Country": "GER",
         "Qualification": "4T5 5B6",
         "Semi-Final": "1T1 4B5",
@@ -41957,8 +41957,8 @@
       },
       {
         "Rank": 12,
-        "NAME": "YANA",
-        "": "CHERESHNEVA",
+        "Name": "YANA",
+        "Surame": "CHERESHNEVA",
         "Country": "RUS",
         "Qualification": "5T7 5B5",
         "Semi-Final": "1T2 3B4",
@@ -41966,8 +41966,8 @@
       },
       {
         "Rank": 12,
-        "NAME": "MARINE",
-        "": "THÉVENET",
+        "Name": "MARINE",
+        "Surame": "THÉVENET",
         "Country": "FRA",
         "Qualification": "3T5 5B7",
         "Semi-Final": "1T2 3B4",
@@ -41975,8 +41975,8 @@
       },
       {
         "Rank": 14,
-        "NAME": "KATHARINA",
-        "": "SAURWEIN",
+        "Name": "KATHARINA",
+        "Surame": "SAURWEIN",
         "Country": "AUT",
         "Qualification": "5T9 5B6",
         "Semi-Final": "1T2 3B5",
@@ -41984,8 +41984,8 @@
       },
       {
         "Rank": 15,
-        "NAME": "EKATERINA",
-        "": "KIPRIIANOVA",
+        "Name": "EKATERINA",
+        "Surame": "KIPRIIANOVA",
         "Country": "RUS",
         "Qualification": "4T5 5B6",
         "Semi-Final": "1T2 2B3",
@@ -41993,8 +41993,8 @@
       },
       {
         "Rank": 16,
-        "NAME": "ALEX",
-        "": "PUCCIO",
+        "Name": "ALEX",
+        "Surame": "PUCCIO",
         "Country": "USA",
         "Qualification": "4T4 5B5",
         "Semi-Final": "0T 3B3",
@@ -42002,8 +42002,8 @@
       },
       {
         "Rank": 17,
-        "NAME": "ANNA",
-        "": "GALLYAMOVA",
+        "Name": "ANNA",
+        "Surame": "GALLYAMOVA",
         "Country": "RUS",
         "Qualification": "5T6 5B6",
         "Semi-Final": "0T 2B5",
@@ -42011,8 +42011,8 @@
       },
       {
         "Rank": 18,
-        "NAME": "ASAKI",
-        "": "HAGIWARA",
+        "Name": "ASAKI",
+        "Surame": "HAGIWARA",
         "Country": "JPN",
         "Qualification": "2T3 4B5",
         "Semi-Final": "0T 1B2",
@@ -42020,8 +42020,8 @@
       },
       {
         "Rank": 19,
-        "NAME": "ISABELL",
-        "": "LEINER",
+        "Name": "ISABELL",
+        "Surame": "LEINER",
         "Country": "GER",
         "Qualification": "3T5 4B6",
         "Semi-Final": "0T 0B",
@@ -42029,8 +42029,8 @@
       },
       {
         "Rank": 19,
-        "NAME": "KATJA",
-        "": "VIDMAR",
+        "Name": "KATJA",
+        "Surame": "VIDMAR",
         "Country": "SLO",
         "Qualification": "5T10 5B8",
         "Semi-Final": "0T 0B",
@@ -42038,8 +42038,8 @@
       },
       {
         "Rank": 21,
-        "NAME": "PETRA",
-        "": "KLINGLER",
+        "Name": "PETRA",
+        "Surame": "KLINGLER",
         "Country": "SUI",
         "Qualification": "2T4 4B10",
         "Semi-Final": null,
@@ -42047,8 +42047,8 @@
       },
       {
         "Rank": 21,
-        "NAME": "REBEKKA",
-        "": "STOTZ",
+        "Name": "REBEKKA",
+        "Surame": "STOTZ",
         "Country": "SUI",
         "Qualification": "4T9 5B10",
         "Semi-Final": null,
@@ -42056,8 +42056,8 @@
       },
       {
         "Rank": 23,
-        "NAME": "CECILE",
-        "": "AVEZOU",
+        "Name": "CECILE",
+        "Surame": "AVEZOU",
         "Country": "FRA",
         "Qualification": "2T4 3B4",
         "Semi-Final": null,
@@ -42065,8 +42065,8 @@
       },
       {
         "Rank": 23,
-        "NAME": "OLGA",
-        "": "BIBIK",
+        "Name": "OLGA",
+        "Surame": "BIBIK",
         "Country": "RUS",
         "Qualification": "3T3 5B5",
         "Semi-Final": null,
@@ -42074,8 +42074,8 @@
       },
       {
         "Rank": 25,
-        "NAME": "JENNY",
-        "": "LAVARDA",
+        "Name": "JENNY",
+        "Surame": "LAVARDA",
         "Country": "ITA",
         "Qualification": "3T3 5B7",
         "Semi-Final": null,
@@ -42083,8 +42083,8 @@
       },
       {
         "Rank": 25,
-        "NAME": "VERA",
-        "": "ZIJLSTRA",
+        "Name": "VERA",
+        "Surame": "ZIJLSTRA",
         "Country": "NED",
         "Qualification": "2T5 4B7",
         "Semi-Final": null,
@@ -42092,8 +42092,8 @@
       },
       {
         "Rank": 27,
-        "NAME": "SABINE",
-        "": "BACHER",
+        "Name": "SABINE",
+        "Surame": "BACHER",
         "Country": "AUT",
         "Qualification": "3T4 5B6",
         "Semi-Final": null,
@@ -42101,8 +42101,8 @@
       },
       {
         "Rank": 27,
-        "NAME": "MONIKA",
-        "": "RETSCHY",
+        "Name": "MONIKA",
+        "Surame": "RETSCHY",
         "Country": "GER",
         "Qualification": "1T1 5B10",
         "Semi-Final": null,
@@ -42110,8 +42110,8 @@
       },
       {
         "Rank": 29,
-        "NAME": "PETRA",
-        "": "RUZICKOVA",
+        "Name": "PETRA",
+        "Surame": "RUZICKOVA",
         "Country": "CZE",
         "Qualification": "1T1 4B7",
         "Semi-Final": null,
@@ -42119,8 +42119,8 @@
       },
       {
         "Rank": 29,
-        "NAME": "OLGA",
-        "": "SHALAGINA",
+        "Name": "OLGA",
+        "Surame": "SHALAGINA",
         "Country": "UKR",
         "Qualification": "3T4 5B7",
         "Semi-Final": null,
@@ -42128,8 +42128,8 @@
       },
       {
         "Rank": 31,
-        "NAME": "DINARA",
-        "": "FAKHRITDINOVA",
+        "Name": "DINARA",
+        "Surame": "FAKHRITDINOVA",
         "Country": "RUS",
         "Qualification": "3T4 4B5",
         "Semi-Final": null,
@@ -42137,8 +42137,8 @@
       },
       {
         "Rank": 31,
-        "NAME": "ANGELA",
-        "": "PAYNE",
+        "Name": "ANGELA",
+        "Surame": "PAYNE",
         "Country": "USA",
         "Qualification": "1T1 4B9",
         "Semi-Final": null,
@@ -42146,8 +42146,8 @@
       },
       {
         "Rank": 33,
-        "NAME": "TABEA",
-        "": "SCHWAB",
+        "Name": "TABEA",
+        "Surame": "SCHWAB",
         "Country": "SUI",
         "Qualification": "1T1 3B4",
         "Semi-Final": null,
@@ -42155,8 +42155,8 @@
       },
       {
         "Rank": 33,
-        "NAME": "ATORI",
-        "": "YASUDA",
+        "Name": "ATORI",
+        "Surame": "YASUDA",
         "Country": "JPN",
         "Qualification": "3T6 5B6",
         "Semi-Final": null,
@@ -42164,8 +42164,8 @@
       },
       {
         "Rank": 35,
-        "NAME": "MORGANE",
-        "": "AVELINE",
+        "Name": "MORGANE",
+        "Surame": "AVELINE",
         "Country": "FRA",
         "Qualification": "1T1 1B1",
         "Semi-Final": null,
@@ -42173,8 +42173,8 @@
       },
       {
         "Rank": 35,
-        "NAME": "KAORI",
-        "": "EGUCHI",
+        "Name": "KAORI",
+        "Surame": "EGUCHI",
         "Country": "JPN",
         "Qualification": "1T1 1B1",
         "Semi-Final": null,
@@ -42182,8 +42182,8 @@
       },
       {
         "Rank": 35,
-        "NAME": "MATEJA",
-        "": "HOHKRAUT",
+        "Name": "MATEJA",
+        "Surame": "HOHKRAUT",
         "Country": "SLO",
         "Qualification": "1T1 1B1",
         "Semi-Final": null,
@@ -42191,8 +42191,8 @@
       },
       {
         "Rank": 35,
-        "NAME": "DIANE",
-        "": "MERRICK",
+        "Name": "DIANE",
+        "Surame": "MERRICK",
         "Country": "GBR",
         "Qualification": "2T3 4B7",
         "Semi-Final": null,
@@ -42200,8 +42200,8 @@
       },
       {
         "Rank": 39,
-        "NAME": "MANON",
-        "": "CHAPET",
+        "Name": "MANON",
+        "Surame": "CHAPET",
         "Country": "FRA",
         "Qualification": "1T1 4B4",
         "Semi-Final": null,
@@ -42209,8 +42209,8 @@
       },
       {
         "Rank": 40,
-        "NAME": "SILVIE",
-        "": "RAJFOVA",
+        "Name": "SILVIE",
+        "Surame": "RAJFOVA",
         "Country": "CZE",
         "Qualification": "1T1 3B6",
         "Semi-Final": null,
@@ -42218,8 +42218,8 @@
       },
       {
         "Rank": 41,
-        "NAME": "EVA",
-        "": "CARRO FERNÁNDEZ",
+        "Name": "EVA",
+        "Surame": "CARRO FERNÁNDEZ",
         "Country": "ESP",
         "Qualification": "1T1 2B4",
         "Semi-Final": null,
@@ -42227,8 +42227,8 @@
       },
       {
         "Rank": 41,
-        "NAME": "MINA",
-        "": "LESLIE-WUJASTYK",
+        "Name": "MINA",
+        "Surame": "LESLIE-WUJASTYK",
         "Country": "GBR",
         "Qualification": "1T2 3B5",
         "Semi-Final": null,
@@ -42236,8 +42236,8 @@
       },
       {
         "Rank": 41,
-        "NAME": "JANA",
-        "": "MÜLLER",
+        "Name": "JANA",
+        "Surame": "MÜLLER",
         "Country": "GER",
         "Qualification": "1T2 3B5",
         "Semi-Final": null,
@@ -42245,8 +42245,8 @@
       },
       {
         "Rank": 41,
-        "NAME": "ANNA",
-        "": "TSYGANOVA",
+        "Name": "ANNA",
+        "Surame": "TSYGANOVA",
         "Country": "RUS",
         "Qualification": "1T1 2B4",
         "Semi-Final": null,
@@ -42254,8 +42254,8 @@
       },
       {
         "Rank": 45,
-        "NAME": "CLEMENTINE",
-        "": "KAISER",
+        "Name": "CLEMENTINE",
+        "Surame": "KAISER",
         "Country": "FRA",
         "Qualification": "1T2 2B3",
         "Semi-Final": null,
@@ -42263,8 +42263,8 @@
       },
       {
         "Rank": 45,
-        "NAME": "KAROLINA",
-        "": "NEVELIKOVA",
+        "Name": "KAROLINA",
+        "Surame": "NEVELIKOVA",
         "Country": "CZE",
         "Qualification": "1T1 1B1",
         "Semi-Final": null,
@@ -42272,8 +42272,8 @@
       },
       {
         "Rank": 47,
-        "NAME": "MARIJA",
-        "": "MILOSAVLJEVIC",
+        "Name": "MARIJA",
+        "Surame": "MILOSAVLJEVIC",
         "Country": "SRB",
         "Qualification": "1T3 1B1",
         "Semi-Final": null,
@@ -42281,8 +42281,8 @@
       },
       {
         "Rank": 47,
-        "NAME": "GILL",
-        "": "PEET",
+        "Name": "GILL",
+        "Surame": "PEET",
         "Country": "GBR",
         "Qualification": "1T2 2B3",
         "Semi-Final": null,
@@ -42290,8 +42290,8 @@
       },
       {
         "Rank": 49,
-        "NAME": "HELEN",
-        "": "HALDENBY",
+        "Name": "HELEN",
+        "Surame": "HALDENBY",
         "Country": "GBR",
         "Qualification": "1T3 1B2",
         "Semi-Final": null,
@@ -42299,8 +42299,8 @@
       },
       {
         "Rank": 49,
-        "NAME": "GUNEL",
-        "": "QULIYEVA",
+        "Name": "GUNEL",
+        "Surame": "QULIYEVA",
         "Country": "AZE",
         "Qualification": "0T 0B",
         "Semi-Final": null,
@@ -42309,12 +42309,12 @@
     ]
   },
   {
-    "id": 43,
     "competition": "IFSC CLIMBING WORLDCUP (B) - VIENNA (AUT) 2012",
     "city": "VIENNA",
     "year": 2012,
     "dates": "27 APRIL - 28 APRIL 2012",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "AKIYO",
@@ -42786,12 +42786,12 @@
     ]
   },
   {
-    "id": 42,
     "competition": "IFSC CLIMBING WORLDCUP (B) - INNSBRUCK (AUT) 2012",
     "city": "INNSBRUCK",
     "year": 2012,
     "dates": "27 APRIL - 28 APRIL 2012",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ANNA",
@@ -43227,12 +43227,12 @@
     ]
   },
   {
-    "id": 41,
     "competition": "IFSC CLIMBING WORLDCUP (B) - VAIL (USA) 2012",
     "city": "VAIL",
     "year": 2012,
     "dates": "01 JUNE - 02 JUNE 2012",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ANNA",
@@ -43605,12 +43605,12 @@
     ]
   },
   {
-    "id": 40,
     "competition": "IFSC CLIMBING WORLDCUP (B) - MUNICH (GER) 2012",
     "city": "MUNICH",
     "year": 2012,
     "dates": "25 AUGUST - 26 AUGUST 2012",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "AKIYO",
@@ -44073,12 +44073,12 @@
     ]
   },
   {
-    "id": 39,
     "competition": "IFSC CLIMBING WORLD CHAMPIONSHIP - PARIS (FRA) 2012",
     "city": "PARIS",
     "year": 2012,
     "dates": "12 SEPTEMBER - 16 SEPTEMBER 2012",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "MÉLANIE",
@@ -44676,12 +44676,12 @@
     ]
   },
   {
-    "id": 38,
     "competition": "IFSC CLIMBING WORLDCUP (B,S) - MILANO (ITA) 2011",
     "city": "MILANO",
     "year": 2011,
     "dates": "14 APRIL - 17 APRIL 2011",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JAIN",
@@ -45072,12 +45072,12 @@
     ]
   },
   {
-    "id": 37,
     "competition": "IFSC CLIMBING WORLDCUP (B) - LOG-DRAGOMER (SLO) 2011",
     "city": "LOG-DRAGOMER",
     "year": 2011,
     "dates": "07 MAY - 08 MAY 2011",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ANNA",
@@ -45405,12 +45405,12 @@
     ]
   },
   {
-    "id": 36,
     "competition": "IFSC CLIMBING WORLDCUP (B) - VIENNA (AUT) 2011",
     "city": "VIENNA",
     "year": 2011,
     "dates": "13 MAY - 14 MAY 2011",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ANNA",
@@ -45819,12 +45819,12 @@
     ]
   },
   {
-    "id": 35,
     "competition": "IFSC CLIMBING WORLDCUP (B) - CANMORE (CAN) 2011",
     "city": "CANMORE",
     "year": 2011,
     "dates": "27 MAY - 28 MAY 2011",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "AKIYO",
@@ -46089,12 +46089,12 @@
     ]
   },
   {
-    "id": 34,
     "competition": "IFSC CLIMBING WORLDCUP (B) - VAIL (USA) 2011",
     "city": "VAIL",
     "year": 2011,
     "dates": "03 JUNE - 04 JUNE 2011",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ANNA",
@@ -46422,12 +46422,12 @@
     ]
   },
   {
-    "id": 33,
     "competition": "IFSC CLIMBING WORLDCUP (B) - EINDHOVEN (NED) 2011",
     "city": "EINDHOVEN",
     "year": 2011,
     "dates": "17 JUNE - 18 JUNE 2011",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "AKIYO",
@@ -46809,12 +46809,12 @@
     ]
   },
   {
-    "id": 32,
     "competition": "IFSC CLIMBING WORLDCUP (B) - BARCELONA (ESP) 2011",
     "city": "BARCELONA",
     "year": 2011,
     "dates": "25 JUNE - 26 JUNE 2011",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "AKIYO",
@@ -47106,12 +47106,12 @@
     ]
   },
   {
-    "id": 31,
     "competition": "IFSC CLIMBING WORLDCUP (B) - SHEFFIELD (GBR) 2011",
     "city": "SHEFFIELD",
     "year": 2011,
     "dates": "02 JULY - 03 JULY 2011",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "AKIYO",
@@ -47331,12 +47331,12 @@
     ]
   },
   {
-    "id": 30,
     "competition": "IFSC CLIMBING WORLD CHAMPIONSHIPS - ARCO (ITA) 2011",
     "city": "ARCO",
     "year": 2011,
     "dates": "15 JULY - 24 JULY 2011",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ANNA",
@@ -47961,12 +47961,12 @@
     ]
   },
   {
-    "id": 29,
     "competition": "IFSC CLIMBING WORLDCUP (B) - MUNICH (GER) 2011",
     "city": "MUNICH",
     "year": 2011,
     "dates": "19 AUGUST - 20 AUGUST 2011",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "MINA",
@@ -48294,12 +48294,12 @@
     ]
   },
   {
-    "id": 28,
     "competition": "IFSC CLIMBING WORLDCUP (B) - GREIFENSEE (SUI) 2010",
     "city": "GREIFENSEE",
     "year": 2010,
     "dates": "14 MAY - 15 MAY 2010",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ALEX",
@@ -48762,12 +48762,12 @@
     ]
   },
   {
-    "id": 27,
     "competition": "IFSC CLIMBING WORLDCUP (B) - WIEN (AUT) 2010",
     "city": "WIEN",
     "year": 2010,
     "dates": "28 MAY - 30 MAY 2010",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "AKIYO",
@@ -49221,12 +49221,12 @@
     ]
   },
   {
-    "id": 26,
     "competition": "IFSC CLIMBING WORLDCUP (B) - VAIL (USA) 2010",
     "city": "VAIL",
     "year": 2010,
     "dates": "04 JUNE - 05 JUNE 2010",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "CHLOÉ",
@@ -49563,12 +49563,12 @@
     ]
   },
   {
-    "id": 25,
     "competition": "IFSC CLIMBING WORLDCUP (B,S) - MOSCOW (RUS) 2010",
     "city": "MOSCOW",
     "year": 2010,
     "dates": "17 JUNE - 21 JUNE 2010",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ANNA",
@@ -49905,12 +49905,12 @@
     ]
   },
   {
-    "id": 24,
     "competition": "IFSC CLIMBING WORLDCUP (B) - EINDHOVEN (NED) 2010",
     "city": "EINDHOVEN",
     "year": 2010,
     "dates": "25 JUNE - 26 JUNE 2010",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ANNA",
@@ -50274,12 +50274,12 @@
     ]
   },
   {
-    "id": 23,
     "competition": "IFSC CLIMBING WORLDCUP (B) - SHEFFIELD (GBR) 2010",
     "city": "SHEFFIELD",
     "year": 2010,
     "dates": "03 JULY - 04 JULY 2010",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "CHLOÉ",
@@ -50531,12 +50531,12 @@
     ]
   },
   {
-    "id": 22,
     "competition": "IFSC CLIMBING WORLDCUP (B) - MUNICH (GER) 2010",
     "city": "MUNICH",
     "year": 2010,
     "dates": "30 JULY - 31 JULY 2010",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "AKIYO",
@@ -50864,16 +50864,16 @@
     ]
   },
   {
-    "id": 21,
     "competition": "IFSC CLIMBING WORLDCUP (B) - KAZO (JPN) 2009",
     "city": "KAZO",
     "year": 2009,
     "dates": "11 APRIL - 12 APRIL 2009",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
-        "NAME": "AKIYO",
-        "": "NOGUCHI",
+        "Name": "AKIYO",
+        "Surame": "NOGUCHI",
         "Country": "JPN",
         "Qualification": "4T6 5B5",
         "Semi-Final": "1T1 4B9",
@@ -50881,8 +50881,8 @@
       },
       {
         "Rank": 2,
-        "NAME": "JAIN",
-        "": "KIM",
+        "Name": "JAIN",
+        "Surame": "KIM",
         "Country": "KOR",
         "Qualification": "4T7 5B9",
         "Semi-Final": "2T3 3B4",
@@ -50890,8 +50890,8 @@
       },
       {
         "Rank": 3,
-        "NAME": "ANNA",
-        "": "STÖHR",
+        "Name": "ANNA",
+        "Surame": "STÖHR",
         "Country": "AUT",
         "Qualification": "3T4 5B10",
         "Semi-Final": "3T6 4B5",
@@ -50899,8 +50899,8 @@
       },
       {
         "Rank": 4,
-        "NAME": "NATALIJA",
-        "": "GROS",
+        "Name": "NATALIJA",
+        "Surame": "GROS",
         "Country": "SLO",
         "Qualification": "2T2 4B4",
         "Semi-Final": "4T13 4B13",
@@ -50908,8 +50908,8 @@
       },
       {
         "Rank": 5,
-        "NAME": "YULIA",
-        "": "ABRAMCHUK",
+        "Name": "YULIA",
+        "Surame": "ABRAMCHUK",
         "Country": "RUS",
         "Qualification": "2T3 4B8",
         "Semi-Final": "3T6 3B6",
@@ -50917,8 +50917,8 @@
       },
       {
         "Rank": 6,
-        "NAME": "ANGELICA",
-        "": "LIND",
+        "Name": "ANGELICA",
+        "Surame": "LIND",
         "Country": "SWE",
         "Qualification": "3T4 4B7",
         "Semi-Final": "1T1 4B9",
@@ -50926,8 +50926,8 @@
       },
       {
         "Rank": 7,
-        "NAME": "ANNE-LAURE",
-        "": "CHEVRIER",
+        "Name": "ANNE-LAURE",
+        "Surame": "CHEVRIER",
         "Country": "FRA",
         "Qualification": "2T2 4B6",
         "Semi-Final": "1T1 3B6",
@@ -50935,8 +50935,8 @@
       },
       {
         "Rank": 8,
-        "NAME": "BARBARA",
-        "": "BACHER",
+        "Name": "BARBARA",
+        "Surame": "BACHER",
         "Country": "AUT",
         "Qualification": "2T2 3B4",
         "Semi-Final": "1T1 3B6",
@@ -50944,8 +50944,8 @@
       },
       {
         "Rank": 9,
-        "NAME": "YANA",
-        "": "CHERESHNEVA",
+        "Name": "YANA",
+        "Surame": "CHERESHNEVA",
         "Country": "RUS",
         "Qualification": "2T4 4B6",
         "Semi-Final": "1T2 4B9",
@@ -50953,8 +50953,8 @@
       },
       {
         "Rank": 10,
-        "NAME": "MINA",
-        "": "MARKOVIC",
+        "Name": "MINA",
+        "Surame": "MARKOVIC",
         "Country": "SLO",
         "Qualification": "2T2 3B4",
         "Semi-Final": "1T2 3B14",
@@ -50962,8 +50962,8 @@
       },
       {
         "Rank": 11,
-        "NAME": "MELISSA",
-        "": "LE NEVE",
+        "Name": "MELISSA",
+        "Surame": "LE NEVE",
         "Country": "FRA",
         "Qualification": "2T5 4B12",
         "Semi-Final": "1T2 2B5",
@@ -50971,8 +50971,8 @@
       },
       {
         "Rank": 12,
-        "NAME": "CHLOÉ",
-        "": "GRAFTIAUX",
+        "Name": "CHLOÉ",
+        "Surame": "GRAFTIAUX",
         "Country": "BEL",
         "Qualification": "2T2 3B3",
         "Semi-Final": "1T4 1B4",
@@ -50980,8 +50980,8 @@
       },
       {
         "Rank": 13,
-        "NAME": "KATJA",
-        "": "VIDMAR",
+        "Name": "KATJA",
+        "Surame": "VIDMAR",
         "Country": "SLO",
         "Qualification": "2T3 3B4",
         "Semi-Final": "0T 3B3",
@@ -50989,8 +50989,8 @@
       },
       {
         "Rank": 14,
-        "NAME": "YUKA",
-        "": "KOBAYASHI",
+        "Name": "YUKA",
+        "Surame": "KOBAYASHI",
         "Country": "JPN",
         "Qualification": "1T1 3B5",
         "Semi-Final": "0T 3B6",
@@ -50998,8 +50998,8 @@
       },
       {
         "Rank": 15,
-        "NAME": "SAMANTHA",
-        "": "BERRY",
+        "Name": "SAMANTHA",
+        "Surame": "BERRY",
         "Country": "AUS",
         "Qualification": "2T2 3B3",
         "Semi-Final": "0T 2B4",
@@ -51007,8 +51007,8 @@
       },
       {
         "Rank": 16,
-        "NAME": "MAUD",
-        "": "ANSADE",
+        "Name": "MAUD",
+        "Surame": "ANSADE",
         "Country": "FRA",
         "Qualification": "2T2 3B4",
         "Semi-Final": "0T 2B5",
@@ -51016,8 +51016,8 @@
       },
       {
         "Rank": 17,
-        "NAME": "SABINE",
-        "": "BACHER",
+        "Name": "SABINE",
+        "Surame": "BACHER",
         "Country": "AUT",
         "Qualification": "3T11 4B12",
         "Semi-Final": "0T 2B7",
@@ -51025,8 +51025,8 @@
       },
       {
         "Rank": 18,
-        "NAME": "DIANE",
-        "": "MERRICK",
+        "Name": "DIANE",
+        "Surame": "MERRICK",
         "Country": "GBR",
         "Qualification": "1T1 2B3",
         "Semi-Final": "0T 1B4",
@@ -51034,8 +51034,8 @@
       },
       {
         "Rank": 19,
-        "NAME": "MÉLANIE",
-        "": "SANDOZ",
+        "Name": "MÉLANIE",
+        "Surame": "SANDOZ",
         "Country": "FRA",
         "Qualification": "2T2 2B2",
         "Semi-Final": "0T 1B6",
@@ -51043,8 +51043,8 @@
       },
       {
         "Rank": 20,
-        "NAME": "ASAKI",
-        "": "HAGIWARA",
+        "Name": "ASAKI",
+        "Surame": "HAGIWARA",
         "Country": "JPN",
         "Qualification": "1T1 2B3",
         "Semi-Final": "0T 0B",
@@ -51052,8 +51052,8 @@
       },
       {
         "Rank": 21,
-        "NAME": "TOMOKO",
-        "": "OGAWA",
+        "Name": "TOMOKO",
+        "Surame": "OGAWA",
         "Country": "JPN",
         "Qualification": "3T6 4B7",
         "Semi-Final": null,
@@ -51061,8 +51061,8 @@
       },
       {
         "Rank": 22,
-        "NAME": "MEGUMI",
-        "": "TAKAHASHI",
+        "Name": "MEGUMI",
+        "Surame": "TAKAHASHI",
         "Country": "JPN",
         "Qualification": "1T2 1B2",
         "Semi-Final": null,
@@ -51070,8 +51070,8 @@
       },
       {
         "Rank": 23,
-        "NAME": "VERA",
-        "": "ZIJLSTRA",
+        "Name": "VERA",
+        "Surame": "ZIJLSTRA",
         "Country": "NED",
         "Qualification": "1T3 2B6",
         "Semi-Final": null,
@@ -51079,8 +51079,8 @@
       },
       {
         "Rank": 24,
-        "NAME": "KATHARINA",
-        "": "SAURWEIN",
+        "Name": "KATHARINA",
+        "Surame": "SAURWEIN",
         "Country": "AUT",
         "Qualification": "1T5 3B7",
         "Semi-Final": null,
@@ -51088,8 +51088,8 @@
       },
       {
         "Rank": 25,
-        "NAME": "HYOJUNG",
-        "": "KIM",
+        "Name": "HYOJUNG",
+        "Surame": "KIM",
         "Country": "KOR",
         "Qualification": "0T 1B1",
         "Semi-Final": null,
@@ -51097,8 +51097,8 @@
       },
       {
         "Rank": 25,
-        "NAME": "SUET-MAN",
-        "": "LI",
+        "Name": "SUET-MAN",
+        "Surame": "LI",
         "Country": "HKG",
         "Qualification": "0T 1B1",
         "Semi-Final": null,
@@ -51106,8 +51106,8 @@
       },
       {
         "Rank": 27,
-        "NAME": "YUKO",
-        "": "SAKAKIBARA",
+        "Name": "YUKO",
+        "Surame": "SAKAKIBARA",
         "Country": "JPN",
         "Qualification": "0T 1B2",
         "Semi-Final": null,
@@ -51115,8 +51115,8 @@
       },
       {
         "Rank": 27,
-        "NAME": "MAI",
-        "": "TONEGI",
+        "Name": "MAI",
+        "Surame": "TONEGI",
         "Country": "JPN",
         "Qualification": "0T 1B2",
         "Semi-Final": null,
@@ -51124,8 +51124,8 @@
       },
       {
         "Rank": 29,
-        "NAME": "NATALIA",
-        "": "KUBRAKOVA",
+        "Name": "NATALIA",
+        "Surame": "KUBRAKOVA",
         "Country": "RUS",
         "Qualification": "0T 1B4",
         "Semi-Final": null,
@@ -51133,8 +51133,8 @@
       },
       {
         "Rank": 30,
-        "NAME": "YAYOI",
-        "": "OGAWA",
+        "Name": "YAYOI",
+        "Surame": "OGAWA",
         "Country": "JPN",
         "Qualification": "0T 0B",
         "Semi-Final": null,
@@ -51142,8 +51142,8 @@
       },
       {
         "Rank": 30,
-        "NAME": "XUHUA",
-        "": "PAN",
+        "Name": "XUHUA",
+        "Surame": "PAN",
         "Country": "CHN",
         "Qualification": "0T 0B",
         "Semi-Final": null,
@@ -51152,12 +51152,12 @@
     ]
   },
   {
-    "id": 20,
     "competition": "IFSC CLIMBING WORLDCUP (B) - HALL (AUT) 2009",
     "city": "HALL",
     "year": 2009,
     "dates": "01 MAY - 02 MAY 2009",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "AKIYO",
@@ -51584,12 +51584,12 @@
     ]
   },
   {
-    "id": 19,
     "competition": "IFSC CLIMBING WORLDCUP (B) - WIEN (AUT) 2009",
     "city": "WIEN",
     "year": 2009,
     "dates": "29 MAY - 30 MAY 2009",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ALEXANDRA",
@@ -52052,12 +52052,12 @@
     ]
   },
   {
-    "id": 18,
     "competition": "IFSC CLIMBING WORLDCUP (B) - VAIL (USA) 2009",
     "city": "VAIL",
     "year": 2009,
     "dates": "05 JUNE - 06 JUNE 2009",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ALEX",
@@ -52340,12 +52340,12 @@
     ]
   },
   {
-    "id": 17,
     "competition": "IFSC CLIMBING WORLDCUP (B) - EINDHOVEN (NED) 2009",
     "city": "EINDHOVEN",
     "year": 2009,
     "dates": "12 JUNE - 13 JUNE 2009",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "AKIYO",
@@ -52691,12 +52691,12 @@
     ]
   },
   {
-    "id": 16,
     "competition": "IFSC CLIMBING WORLD CHAMPIONSHIPS - QINGHAI (CHN) 2009",
     "city": "QINGHAI",
     "year": 2009,
     "dates": "30 JUNE - 05 JULY 2009",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "YULIA",
@@ -53159,12 +53159,12 @@
     ]
   },
   {
-    "id": 15,
     "competition": "IFSC CLIMBING WORLDCUP (B) - HALL (AUT) 2008",
     "city": "HALL",
     "year": 2008,
     "dates": "18 APRIL - 19 APRIL 2008",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ANNA",
@@ -53645,12 +53645,12 @@
     ]
   },
   {
-    "id": 14,
     "competition": "IFSC CLIMBING WORLDCUP (B) - REUNION (FRA) 2008",
     "city": "REUNION",
     "year": 2008,
     "dates": "02 MAY - 03 MAY 2008",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ANNA",
@@ -53843,12 +53843,12 @@
     ]
   },
   {
-    "id": 13,
     "competition": "IFSC CLIMBING WORLDCUP (B) - GRINDELWALD (SUI) 2008",
     "city": "GRINDELWALD",
     "year": 2008,
     "dates": "02 MAY - 03 MAY 2008",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ANNA",
@@ -54185,12 +54185,12 @@
     ]
   },
   {
-    "id": 12,
     "competition": "IFSC CLIMBING WORLDCUP (B) - VAIL (USA) 2008",
     "city": "VAIL",
     "year": 2008,
     "dates": "06 JUNE - 07 JUNE 2008",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ALEX",
@@ -54518,12 +54518,12 @@
     ]
   },
   {
-    "id": 11,
     "competition": "IFSC CLIMBING WORLDCUP (B) - FIERA DI PRIMIERO (ITA) 2008",
     "city": "FIERA DI PRIMIERO",
     "year": 2008,
     "dates": "13 JUNE - 14 JUNE 2008",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ANNA",
@@ -54878,12 +54878,12 @@
     ]
   },
   {
-    "id": 10,
     "competition": "IFSC CLIMBING WORLDCUP (B) - MONTAUBAN (FRA) 2008",
     "city": "MONTAUBAN",
     "year": 2008,
     "dates": "04 JULY - 05 JULY 2008",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "AKIYO",
@@ -55202,12 +55202,12 @@
     ]
   },
   {
-    "id": 9,
     "competition": "IFSC CLIMBING WORLDCUP (S+B) - MOSCOW (RUS) 2008",
     "city": "MOSCOW",
     "year": 2008,
     "dates": "31 OCTOBER - 02 NOVEMBER 2008",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "KATHARINA",
@@ -55535,12 +55535,12 @@
     ]
   },
   {
-    "id": 8,
     "competition": "IFSC CLIMBING WORLDCUP (B) - ERLANGEN (GER) 2007",
     "city": "ERLANGEN",
     "year": 2007,
     "dates": "30 MARCH - 31 MARCH 2007",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "OLGA",
@@ -55814,12 +55814,12 @@
     ]
   },
   {
-    "id": 7,
     "competition": "IFSC CLIMBING WORLDCUP (B) - SOFIA (BUL) 2007",
     "city": "SOFIA",
     "year": 2007,
     "dates": "20 APRIL - 22 APRIL 2007",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "YULIA",
@@ -56138,12 +56138,12 @@
     ]
   },
   {
-    "id": 6,
     "competition": "IFSC CLIMBING WORLDCUP (B) - HALL (AUT) 2007",
     "city": "HALL",
     "year": 2007,
     "dates": "27 APRIL - 28 APRIL 2007",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "OLGA",
@@ -56444,12 +56444,12 @@
     ]
   },
   {
-    "id": 5,
     "competition": "IFSC CLIMBING WORLDCUP (B) - LA REUNION (FRA) 2007",
     "city": "LA REUNION",
     "year": 2007,
     "dates": "04 MAY - 05 MAY 2007",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JULIETTE",
@@ -56543,12 +56543,12 @@
     ]
   },
   {
-    "id": 4,
     "competition": "IFSC CLIMBING WORLDCUP (B) - GRINDELWALD (SUI) 2007",
     "city": "GRINDELWALD",
     "year": 2007,
     "dates": "08 JUNE - 09 JUNE 2007",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "NATALIJA",
@@ -56903,12 +56903,12 @@
     ]
   },
   {
-    "id": 3,
     "competition": "IFSC CLIMBING WORLDCUP (B) - FIERA DI PRIMIERO (ITA) 2007",
     "city": "FIERA DI PRIMIERO",
     "year": 2007,
     "dates": "22 JUNE - 23 JUNE 2007",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "NATALIJA",
@@ -57191,12 +57191,12 @@
     ]
   },
   {
-    "id": 2,
     "competition": "IFSC CLIMBING WORLD CHAMPIONSHIP (L + B + S) - AVILES (ESP) 2007",
     "city": "AVILES",
     "year": 2007,
     "dates": "17 SEPTEMBER - 23 SEPTEMBER 2007",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "ANNA",
@@ -57893,12 +57893,12 @@
     ]
   },
   {
-    "id": 1,
     "competition": "IFSC CLIMBING WORLDCUP (B) - BRNO (CZE) 2007",
     "city": "BRNO",
     "year": 2007,
     "dates": "09 NOVEMBER - 10 NOVEMBER 2007",
-    "results": [
+    "results":
+    [
       {
         "Rank": 1,
         "Name": "JULIETTE",
