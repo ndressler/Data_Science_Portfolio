@@ -1,8 +1,11 @@
 import json
+import os
+
 
 def load_data():
+    json_data_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'data.json')
     try:
-        with open('data.json', 'r') as f:
+        with open(json_data_path, 'r') as f:
             return json.load(f)
     except FileNotFoundError:
         print("Error: data.json not found")

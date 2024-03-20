@@ -28,13 +28,14 @@ class DataResource(Resource):
         filters = {
             "id": lambda x: next((item for item in self.data if item["id"] == x), None),
             "competition": lambda x: [item for item in self.data if x.lower() in item["competition"].lower()],
+            "country": lambda x: [item for item in self.data if x.lower() in item["country"].lower()],
             "city": lambda x: [item for item in self.data if x.lower() in item["city"].lower()],
             "year": lambda x: [item for item in self.data if item["year"] == x],
             "dates": lambda x: [item for item in self.data if x.lower() in item["dates"].lower()],
             "rank": lambda x: self.filter_results("Rank", str(x)),
             "name": lambda x: self.filter_results("Name", x),
             "surname": lambda x: self.filter_results("Surname", x),
-            "country": lambda x: self.filter_results("Country", x),
+            "country_a": lambda x: self.filter_results("Country_Athlete", x),
         }
 
         for key, value in kwargs.items():

@@ -27,12 +27,23 @@ To access the Tableau visualization project, please visit [link_to_tableau_proje
 
 The project structure is organized as follows:
 
-- `flask_app.py`: Initializes a Flask app and creates a Flask-RESTful API.
-- `data_loader.py`: Attempts to read and parse the JSON file and returns the loaded data.
-- `data_resources.py`: Contains Flask-RESTful resources that handles requests.
-- `data.json`: This file contains the raw data in JSON format.
-- `requirments.txt`: Requirments for the project.
-- `README.md`: Documentation for the project.
+WomensBoulder/<br>
+│<br>
+├── data/<br>
+│   ├── data.json        # Cleaned JSON data, main data file<br>
+│   ├── data.csv        # Cleaned CSV data<br>
+│   └── raw_data.json    # Raw data file<br>
+│<br>
+├── scripts/<br>
+│   ├── __init__.py__            # Init file<br>
+│   ├── data_loader.py__            # Read and parse the JSON file and returns the loaded data<br>
+│   ├── data_resources.py__            # Contains Flask-RESTful resources that handles requests<br>
+│   └── process_data.py__            # Cleans and organized data for use<br>
+│<br>
+├── app.py      # Initializes a Flask app and creates a Flask-RESTful API<br>
+├── requirements.txt<br>   # Requirements of the application<br>
+├── LICENSE<br>
+└── README.md                              # You are here<br
 
 ## Getting Started
 
@@ -47,7 +58,7 @@ To get started with this API, follow the steps below:
 2. Navigate to the project directory:
 
    ```bash
-   cd WomensBoulder/API
+   cd WomensBoulder
    ```
 
 3. Install the required dependencies. It's recommended to use a virtual environment:
@@ -59,7 +70,7 @@ To get started with this API, follow the steps below:
 4. Run the Flask application:
 
    ```bash
-   python flask_app.py
+   python app.py
    ```
 
 5. The API will start running locally at `http://127.0.0.1:5000/`.
@@ -87,10 +98,11 @@ The following endpoints allow for filtering the data based on various criteria:
 - `/api/data/city/<string:city>`
 - `/api/data/year/<int:year>`
 - `/api/data/dates/<string:dates>`
+- `/api/data/country/<string:country>`
 - `/api/data/rank/<string:rank>`
 - `/api/data/name/<string:name>`
 - `/api/data/surname/<string:surname>`
-- `/api/data/country/<string:country>`
+- `/api/data/country_a/<string:country_a>`
 
 Refer to the source code for more details on how to use these filtering endpoints.
 
@@ -100,10 +112,11 @@ The data served by this API is stored in a JSON format. Each competition entry c
 
 - `id`: Unique identifier of the competition.
 - `competition`: Name of the competition.
+- `country`: Country where the competition took place
 - `city`: City where the competition took place.
 - `year`: Year when the competition was held.
 - `dates`: Dates of the competition.
-- `results`: Array containing detailed results of the competition, including rankings, names, surnames, countries, qualifications, semi-final performances, and final performances of participants.
+- `results`: Array containing detailed results of the competition, including rankings, names, surnames, athletes countries, qualifications, semi-final performances, and final performances of participants.
 
 ## Future Improvements
 
