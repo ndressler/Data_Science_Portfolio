@@ -102,7 +102,7 @@ def parse_result_2018up(result):
         parsed_result["q_top_att"] = int(q_parts[1])
         parsed_result["q_zone_att"] = int(q_parts[2])
 
-    semi_final = result.get("Semi-Final")
+    semi_final = result.get("Semi-final")
     if semi_final is not None and semi_final != "DNS":
         sf_parts = semi_final.split(' ')
         parsed_result["sf_top"] = int(sf_parts[0][0])

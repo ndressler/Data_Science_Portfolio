@@ -8,7 +8,7 @@ More about me: [LinkedIn](https://www.linkedin.com/in/nicolecdressler/)
 
 With <strong>Flask-Restful</strong>:
 
-  * [WomensBoulder](https://github.com/ndressler/Data_Science_Portfolio/tree/main/WomensBoulder): Flask RESTful API and Tableau EDA VIsualization.
+  * [WomensBoulder](https://github.com/ndressler/Data_Science_Portfolio/tree/main/WomensBoulder): Flask RESTful API and Power BI EDA VIsualization.
 
 ## Data Analysis and Visualisation:
 
