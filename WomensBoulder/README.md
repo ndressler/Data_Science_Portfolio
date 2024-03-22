@@ -119,13 +119,13 @@ The data served by this API is stored in a JSON format. Each competition entry c
 
 ## Future Improvements
 
-### API Functionality Expansion:
+### API Functionality Expansion
 - Currently, the API is only capable of retrieving data using the GET method. Future improvements will include implementing additional HTTP methods such as PUT, DELETE, and POST. This expansion will allow for more comprehensive interaction with the data, including updating, deleting, and adding new entries.
 
-### Hosting on PythonAnywhere:
+### Hosting on PythonAnywhere
 - While the API is currently running locally, the plan is to host it on PythonAnywhere for broader accessibility. Hosting the API on PythonAnywhere will make it accessible via the internet, allowing users to interact with it remotely.
 
-### Yearly Updates:
+### Yearly Updates
 - To ensure the data remains current and relevant, the API will be updated yearly with new data from women's boulder World Cup events. This periodic update will ensure that analysts and enthusiasts have access to the latest information for their research and visualization needs.
 
 ## Contributing

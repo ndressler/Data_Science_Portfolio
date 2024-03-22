@@ -12,7 +12,7 @@ With <strong>Flask-Restful</strong>:
 
 ## Data Analysis and Visualisation:
 
-With <strong>Python</strong>:
+With <strong>Jupyter Notebook</strong>:
 
   * [KeepItOn](https://github.com/ndressler/Data_Science_Portfolio/tree/main/KeepItOn): EDA and Task Analysis Assignment made with Python (Pandas, Seaborn and Matplotlib).
 
@@ -23,3 +23,10 @@ With <strong>SQL</strong>:
 With Spreasheets & Slides:
 
   * [BoulderSandS](https://github.com/ndressler/Data_Science_Portfolio/tree/main/BoulderSandS): Data Cleaning and EDA made with Google Spreadsheets and Slides.
+
+## Console-Based Softwares:
+
+With <strong>Python</strong>:
+
+  * [MathQuiz](https://github.com/ndressler/Data_Science_Portfolio/tree/main/MathQuiz): Console-Based Quiz in Python.
+  * [LibrarySystem](https://github.com/ndressler/Data_Science_Portfolio/tree/main/LibrarySystem): Console-Based System in Python.
