@@ -32,12 +32,12 @@ This is a console-based quiz application written in Python. It allows users to t
 
 ## Project Structure
 
-MathQuiz/
-├── main.py            # Entry point of the program
-└── scripts/
-│   ├── __init__.py    # Initialization file
-│   ├── quiz.py        # Module containing quiz-related functions
-│   └── user.py        # Module containing user-related functions
+MathQuiz/<br>
+├── main.py            # Entry point of the program<br>
+└── scripts/<br>
+│   ├── __init__.py    # Initialization file<br>
+│   ├── quiz.py        # Module containing quiz-related functions<br>
+│   └── user.py        # Module containing user-related functions<br>
 ├── LICENSE<br>
 └── README.md                              # You are here<br>
 
