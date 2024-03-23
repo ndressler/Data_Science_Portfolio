@@ -28,12 +28,7 @@ class User:
         return f'User(name={self.name}, correct_answers={self.correct_answers}, num_questions={self.num_questions}, score={self.score}, percentage={self.percentage})'
 
 class UserManager:
-    """
-    Manages the users in the quiz system.
-
-    Attributes:
-        users (dict): A dictionary containing the users, where the key is the user's name and the value is the User object.
-    """
+    """Manages the users in the quiz system"""
 
     def __init__(self):
         self.users = {}

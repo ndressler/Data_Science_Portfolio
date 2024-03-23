@@ -4,20 +4,7 @@ from tabulate import tabulate
 from scripts.user import User
 
 class Quiz:
-    """Represents a quiz system.
-
-    Attributes:
-        HEADERS (list): A list of column headers for the scores table.
-        users (dict): A dictionary of users participating in the quiz.
-        user_manager (UserManager): An instance of the UserManager class.
-
-    Methods:
-        __init__(self, user_manager): Initializes a Quiz object.
-        add_user(self, user): Adds a user to the quiz.
-        update_scores_file(self, users_table): Updates the scores file with the latest scores.
-        show_scores(self, users_table): Displays the scores table and average score.
-
-    """
+    """Represents a quiz system"""
 
     HEADERS = ['Name', 'Correct Answers', 'Number of Questions', 'Score', 'Percentage']
 
@@ -41,22 +28,7 @@ class Quiz:
         self.users.clear()
 
 class Math(Quiz):
-    """Represents a math quiz system.
-
-    This class provides methods to interact with the user and conduct a math quiz.
-    It inherits from the `Quiz` class.
-
-    Attributes:
-        None
-
-    Methods:
-        get_user_info: Prompts the user for their name and the number of questions they want to solve.
-        generate_question: Generates a math question with random numbers and operators.
-        get_user_answer: Prompts the user to enter their answer for a given question.
-        show_final_score: Displays the final score and results of the quiz.
-        start_quiz: Starts the math quiz for a given user.
-
-    """
+    """Represents a math quiz system"""
 
     def get_user_info(self) -> User:
         print("To start the quiz please enter your name.")
