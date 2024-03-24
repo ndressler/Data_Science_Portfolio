@@ -8,7 +8,9 @@ More about me: [LinkedIn](https://www.linkedin.com/in/nicolecdressler/)
 
 With <strong>Jupyter Notebook</strong>:
 
-  * [ML-ANN_Bank](https://github.com/ndressler/Data_Science_Portfolio/tree/main/ML-ANN_Bank): Feedforward artificial neural networks (ANNs) using Python and Keras for binary classification tasks in the finance sector.
+  * [ML-CNN_CIFAR10](https://github.com/ndressler/Data_Science_Portfolio/tree/main/ML-CNN_CIFAR10): Convolutional Neural Network (CNN) models using Python, Scikit-learn, TensorFlow and Keras for a multi-class image classification problem using the CIFAR-10 dataset.
+
+  * [ML-ANN_Bank](https://github.com/ndressler/Data_Science_Portfolio/tree/main/ML-CNN_CIFAR10): Feedforward artificial neural networks (ANNs) using Python, Scikit-learn, TensorFlow and Keras for binary classification tasks in the finance sector.
 
 ## API Integration and Visualization:
 
