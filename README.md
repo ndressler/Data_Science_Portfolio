@@ -26,7 +26,7 @@ With <strong>SQL</strong>:
 
 With <strong>Flask-Restful and Power BI</strong>:
 
-  * [WomensBoulder](https://github.com/ndressler/Data_Science_Portfolio/tree/main/WomensBoulder): Flask RESTful API and Power BI EDA VIsualization.
+  * [WomensBoulder](https://github.com/ndressler/Data_Science_Portfolio/tree/main/WomensBoulder): Flask RESTful API and Power BI Interactive Dashboard Visualization.
 
 With Spreasheets & Slides:
 
