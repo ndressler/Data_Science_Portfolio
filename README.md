@@ -4,6 +4,12 @@ A repository of data science projects. It's updated regularly, to see full analy
 
 More about me: [LinkedIn](https://www.linkedin.com/in/nicolecdressler/)
 
+## Machine Learning Models:
+
+With <strong>Jupyter Notebook</strong>:
+
+  * [ML-ANN_Bank](https://github.com/ndressler/Data_Science_Portfolio/tree/main/ML-ANN_Bank): Feedforward artificial neural networks (ANNs) using Python and Keras for binary classification tasks in the finance sector.
+
 ## API Integration and Visualization:
 
 With <strong>Flask-Restful</strong>:
