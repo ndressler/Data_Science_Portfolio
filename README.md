@@ -12,12 +12,6 @@ With <strong>Jupyter Notebook</strong>:
 
   * [ML-ANN_Bank](https://github.com/ndressler/Data_Science_Portfolio/tree/main/ML-CNN_CIFAR10): Feedforward artificial neural networks (ANNs) using Python, Scikit-learn, TensorFlow and Keras for binary classification tasks in the finance sector.
 
-## API Integration and Visualization:
-
-With <strong>Flask-Restful</strong>:
-
-  * [WomensBoulder](https://github.com/ndressler/Data_Science_Portfolio/tree/main/WomensBoulder): Flask RESTful API and Power BI EDA VIsualization.
-
 ## Data Analysis and Visualisation:
 
 With <strong>Jupyter Notebook</strong>:
@@ -31,6 +25,12 @@ With <strong>SQL</strong>:
 With Spreasheets & Slides:
 
   * [BoulderSandS](https://github.com/ndressler/Data_Science_Portfolio/tree/main/BoulderSandS): Data Cleaning and EDA made with Google Spreadsheets and Slides.
+
+## API Integration and Visualization:
+
+With <strong>Flask-Restful</strong>:
+
+  * [WomensBoulder](https://github.com/ndressler/Data_Science_Portfolio/tree/main/WomensBoulder): Flask RESTful API and Power BI EDA VIsualization.
 
 ## Console-Based Softwares:
 
