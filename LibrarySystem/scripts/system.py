@@ -5,7 +5,7 @@ class LibrarySystem:
     def __init__(self, book_list, user_list, loan_list):
         self.book_options = BookOptions(book_list)
         self.user_options = UserOptions(user_list)
-        self.loan_options = LoanOptions(loan_list)
+        self.loan_options = LoanOptions(loan_list, book_list, user_list)
         self.options = {
             "1": self.book_options.book_options,
             "2": self.user_options.user_options,
@@ -265,8 +265,10 @@ class UserOptions:
         print(f"The library has a total of {total_users} users.")
 
 class LoanOptions:
-    def __init__(self, loan_list):
+    def __init__(self, loan_list, book_list, user_list):
         self.loan_list = loan_list
+        self.book_list = book_list
+        self.user_list = user_list
 
     def loan_options(self):
         print("""\nWould you like to:\n
@@ -274,7 +276,7 @@ class LoanOptions:
             2. Remove a loan\n
             3. Find a loan\n
             4. Get the information about a loan\n
-            5. Update a loan\n
+            5. Find all late loans\n
             6. Check total of loans in library\n""")
 
         options = {
@@ -282,7 +284,7 @@ class LoanOptions:
             "2": self.loan_option_2_remove,
             "3": self.loan_option_3_find,
             "4": self.loan_option_4_info,
-            "5": self.loan_option_5_update,
+            "5": self.loan_option_5_late,
             "6": self.loan_option_6_total
         }
 
@@ -295,12 +297,14 @@ class LoanOptions:
                 print("Invalid input. Please try again.")
 
     def get_loan_info(self):
-        input_user_id = get_valid_input("Username: ", lambda x: x.strip() != "", "Input invalid. Must not be empty.")
-        input_book_id = int(get_valid_input("Book ID: ", lambda x: x.strip() != "" and x.isnumeric() and len(x) <= 4,
-                    "Input invalid. Must not be empty and must contain only numbers (maximum 4)."))
+        input_user_id = get_valid_input("Username: ",
+                                        lambda x: x.strip() != "" and x in self.user_list.get_users().keys(),
+                                        "Input invalid. Must not be empty and must exist in the user list.")
+        input_book_id = int(get_valid_input("Book ID: ",
+                                            lambda x: x.strip() != "" and x.isnumeric() and len(x) <= 4 and int(x) in self.book_list.get_books().keys(),
+                                            "Input invalid. Must not be empty, must contain only numbers (maximum 4), and must exist in the book list."))
         input_loan_date = get_valid_date("Loan date (Make sure the date is in the 'dd-mm-yyyy' format): ")
-        input_return_date = get_valid_date("Return date (Make sure the date is in the 'dd-mm-yyyy' format): ")
-        return input_user_id, input_book_id, input_loan_date, input_return_date
+        return input_user_id, input_book_id, input_loan_date
 
     def loan_option_1_add(self):
         print("To add a new loan please provide:")
@@ -318,9 +322,9 @@ class LoanOptions:
         print(f"Loan '{remove_loan_id}' successfully removed from library collection. You'll be redirected to the main menu.")
 
     def loan_option_3_find(self):
-        print("Would you like to find your desired loan by user ID, book ID, loan date or return date?")
+        print("Would you like to find your desired loan by username or book ID?")
         input_search_type = get_valid_input("Please enter here the search type: ",
-                                            lambda x: x.strip() != "" and x in ["user_id", "book_id", "loan_date", "return_date"],
+                                            lambda x: x.strip() != "" and x in ["username", "book id"],
                                             "Input invalid. Must not be empty and the search type must be one of the above mentioned.")
         input_data = get_valid_input("Please enter here the data be searched: ",
                                     lambda x: x.strip() != "",
@@ -346,7 +350,7 @@ class LoanOptions:
             print(f"{key}: {value}")
             print("You'll be redirected to the main menu.")
 
-    def loan_option_5_update(self):
+    def loan_option_5_late(self):
         print("To update a loan please provide the following:")
         input_id = get_valid_input("Loan ID: ", lambda x: x.strip() != "" and x.isnumeric() and len(x) <= 4,
                     "Input invalid. Must not be empty and must contain only numbers (maximum 4).")

@@ -49,7 +49,6 @@ class Books:
             raise ValueError("Author cannot be empty")
         self._author = author.lower()
 
-
     @property
     def year(self) -> int:
         return self._year

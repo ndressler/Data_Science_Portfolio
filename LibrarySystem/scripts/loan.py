@@ -7,14 +7,22 @@ from typing import Dict, List
 
 class Loans:
     """A class to represent a loan in the library system"""
-    def __init__(self, book_id: str, username: str, book_list: BookList, user_list: UserList) -> None:
-        self.loan_code: str = secrets.token_hex(3)
+    def __init__(self,loan_code: str,  book_id: str, username: str, book_list: BookList, user_list: UserList) -> None:
+        self._loan_code: str = loan_code
         self._book_list = book_list
         self._user_list = user_list
         self._book_id: str = book_id
         self._username: str = username
         self._loan_date: datetime = datetime.today()
         self._return_date: datetime = datetime.today() + timedelta(days=10)
+
+    @property
+    def loan_code(self) -> str:
+        return self.loan_code
+
+    @loan_code.setter
+    def loan_code(self, loan_code: int) -> None:
+        self.loan_code = loan_code
 
     @property
     def book_id(self) -> str:
@@ -24,7 +32,7 @@ class Loans:
     def book_id(self, book_id: str) -> None:
         if book_id not in self._book_list.get_books():
             raise ValueError(f"The Book ID {book_id} is not in the library's collection.")
-        self._book_id = book_id
+        else: self._book_id = book_id
 
     @property
     def username(self) -> str:
@@ -64,19 +72,39 @@ class LoanList:
     def __init__(self) -> None:
         self.collection: Dict[str, Loans] = {}
 
-    def add_loan(self, book_id: str, username: str, book_list: BookList, user_list: UserList) -> None:
-        if username not in user_list.get_users().keys() or book_id not in book_list.get_books().keys():
-            raise ValueError("User or book not found in the collection.")
-        book = book_list.get_books()[book_id]
-        if book.get_num_available_copies() <= 0:
-            raise ValueError(f"The book with ID {book_id} is currently not available.")
-        new_loan = Loans(book_id, username, book_list, user_list)
-        self.collection[new_loan.loan_code] = new_loan
-        book.set_num_available_copies(book.get_num_available_copies() - 1)
+    def generate_unique_code(self):
+        while True:
+            new_code = secrets.token_hex(3)
+            if new_code not in self.get_loans():
+                return new_code
+
+    def get_loans(self) -> Dict[str, Loans]:
+        return self.collection
+
+    def add_loan(self, loan_code: str, book_id: str, username: str, book_list: BookList, user_list: UserList) -> None:
+        try:
+            if loan_code is None:
+                loan_code = self.generate_unique_loan()
+            if username not in user_list.get_users().keys() or book_id not in book_list.get_books().keys():
+                raise ValueError("User or book not found in the collection.")
+            book = book_list.get_books()[book_id]
+            if book.get_num_available_copies() <= 0:
+                raise ValueError(f"The book with ID {book_id} is currently not available.")
+            new_loan = Loans(book_id, username, book_list, user_list)
+            self.collection[new_loan.loan_code] = new_loan
+            book.set_num_available_copies(book.get_num_available_copies() - 1)
+        except ValueError as e:
+            raise ValueError(f"Invalid input. Please try again with valid data. Error: {e}")
 
     def find_loan(self, data: str, search_type: str) -> List[str]:
-        search_map = {"username": "username", "book_id": "book_id"}
+        data = data.lower()
         search_type = search_type.lower()
+
+        search_map = {
+            "username": lambda username: data in username.lower(),
+            "book_id": lambda book_id: data in book_id.lower()
+            }
+
         if search_type not in search_map:
             raise KeyError("Invalid search type. Please provide a valid search type of either 'username' or 'book_id'.")
         return [loan_code for loan_code, loan_item in self.collection.items() if data.lower() in getattr(loan_item, search_map[search_type]).lower()]
