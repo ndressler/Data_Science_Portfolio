@@ -1,7 +1,7 @@
 # In Progress . . .
 
-Missing: Loans section in system.py,
-Rewrite unittests and check functionalities manually,
+Missing: Loans section in system.py,<br>
+Rewrite unittests and check functionalities manually,<br>
 create requirements file.
 
 # Library System
@@ -27,23 +27,22 @@ The module requires implementing a library record system in Python utilizing obj
 ## Project Structure
 
 LibrarySystem<br>
-├── main.py
-├── scripts
-│   ├── book.py
-│   ├── functions.py
-│   ├── loan.py
-│   ├── system.py
-│   └── user.py
-├── tests
-|   ├── test_book.py
-|   ├── test_functions.py
-|   ├── test_loan.py
-|   ├── test_system.py
-|   └── test_user.py
+├── main.py<br>
+├── scripts<br>
+│   ├── book.py<br>
+│   ├── functions.py<br>
+│   ├── loan.py<br>
+│   ├── system.py<br>
+│   └── user.py<br>
+├── tests<br>
+|   ├── test_book.py<br>
+|   ├── test_functions.py<br>
+|   ├── test_loan.py<br>
+|   ├── test_system.py<br>
+|   └── test_user.py<br>
 ├── scripts/ <br>
-├── LICENSE
-└── README.md
-
+├── LICENSE<br>
+└── README.md<br>
 
 ## How to Use
 
