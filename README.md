@@ -22,15 +22,15 @@ With <strong>SQL</strong>:
 
   * [CocktailsDE](https://github.com/ndressler/Data_Science_Portfolio/tree/main/Cocktails_SQL_Analysis): Task Analysis Challenge made with PostgreSQL.
 
+## API Integration and Interactive Dashboard:
+
+With <strong>Flask-Restful and Power BI</strong>:
+
+  * [WomensBoulder](https://github.com/ndressler/Data_Science_Portfolio/tree/main/WomensBoulder): Flask RESTful API and Power BI EDA VIsualization.
+
 With Spreasheets & Slides:
 
   * [BoulderSandS](https://github.com/ndressler/Data_Science_Portfolio/tree/main/BoulderSandS): Data Cleaning and EDA made with Google Spreadsheets and Slides.
-
-## API Integration and Visualization:
-
-With <strong>Flask-Restful</strong>:
-
-  * [WomensBoulder](https://github.com/ndressler/Data_Science_Portfolio/tree/main/WomensBoulder): Flask RESTful API and Power BI EDA VIsualization.
 
 ## Console-Based Softwares:
 
