@@ -82,7 +82,21 @@ def add_country(city_country):
             country = city_country[city]
             entry["country"] = country
 
-def country_ath_full_name(country_names):
+def correct_semifinal_name():
+    for entry in data:
+        for result in entry['results']:
+            if 'Semi-Final' in result:
+                result['Semi-final'] = result.pop('Semi-Final')
+
+def join_athlete_name():
+    for entry in data:
+        if 'results' in entry:
+            for result in entry['results']:
+                if 'Name' in result and 'Surname' in result:
+                    result['Name'] = result['Name'] + ' ' + result['Surname']
+                    del result['Surname']
+
+def country_athlete_full_name(country_names):
     for entry in data:
         if 'results' in entry:
             for result in entry['results']:
@@ -213,6 +227,12 @@ clean_entries()
 # clean scores
 replace_scores()
 
+# correct semifinal name
+correct_semifinal_name()
+
+# join names
+join_athlete_name()
+
 # add ids
 add_ids()
 
@@ -290,7 +310,7 @@ country_at_mapping = {
     'RSA': 'SOUTH AFRICA',
     'AUS': 'AUSTRALIA'
 }
-country_ath_full_name(country_at_mapping)
+country_athlete_full_name(country_at_mapping)
 
 # separate points
 for competition in data:
