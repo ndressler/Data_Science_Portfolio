@@ -8,6 +8,8 @@ More about me: [LinkedIn](https://www.linkedin.com/in/nicolecdressler/)
 
 With <strong>Jupyter Notebook</strong>:
 
+  * [Financial_Fraud_Detection](https://github.com/ndressler/Financial_Fraud_Detection): Anomaly detection semi-supervised IF (Isolatino Forest), LOF (Local Outlier Factor), OCSVM (One-Class Support Vector Machine) models and an Ensemble Voting Model of the individual models with Financial Fraud dataset.
+
   * [ML-CNN_CIFAR10](https://github.com/ndressler/Data_Science_Portfolio/tree/main/ML-CNN_CIFAR10): Convolutional Neural Network (CNN) models using Python, Scikit-learn, TensorFlow and Keras for a multi-class image classification problem using the CIFAR-10 dataset.
 
   * [ML-ANN_Bank](https://github.com/ndressler/Data_Science_Portfolio/tree/main/ML-CNN_CIFAR10): Feedforward artificial neural networks (ANNs) using Python, Scikit-learn, TensorFlow and Keras for binary classification tasks in the finance sector.
