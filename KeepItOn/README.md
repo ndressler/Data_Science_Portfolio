@@ -6,6 +6,7 @@
 - [Tasks for Analysis](#tasks-for-analysis)
 - [Project Structure](#project-structure)
 - [How to Use](#how-to-use)
+- [Presentation](#presentation)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -56,6 +57,10 @@ KeepItOn/<br>
 2. Ensure you have the necessary dependencies installed (Python, Jupyter Notebook, pandas, matplotlib, etc.).
 3. Navigate to the `notebooks` directory and open `KeepItOn_Analysis.ipynb` using Jupyter Notebook.
 4. For presentation purposes, open `KeepItOn_Presentation.slides.html` to view slides.
+
+## Presentation
+
+To present the slides for this case remeber to download the whole project so the sldies presentation can correctly show all graphs.
 
 ## Contributing
 
