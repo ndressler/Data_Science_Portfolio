@@ -14,7 +14,6 @@ create requirements file.
 - [Functionality](#functionality)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About the Project
 
@@ -98,7 +97,3 @@ The math quiz system provides the following functionality:
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
