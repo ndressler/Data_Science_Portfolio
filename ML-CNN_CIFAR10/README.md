@@ -70,6 +70,8 @@ ML-CNN_CIFAR10/<br>
 
 ## Future Improvements
 
+- Reults: The primary task of this project was to develop a Convolutional Neural Network (CNN) while exploring key aspects of machine learning to enhance my understanding of the field. Moving forward, my goal is to improve the model to achieve state-of-the-art results on the CIFAR-10 dataset, targeting over 90% accuracy and a loss below 0.5. To accomplish this, I plan to experiment with advanced CNN architectures, implement extensive data augmentation techniques, fine-tune hyperparameters, and explore transfer learning with pre-trained models.
+
 - Automated Hyperparameter Tuning: Instead of manually tuning hyperparameters, consider implementing automated hyperparameter tuning techniques such as grid search, random search, or Bayesian optimization. Tools like scikit-learn's GridSearchCV or RandomizedSearchCV, as well as libraries like Optuna or Hyperopt, can efficiently search the hyperparameter space to find optimal configurations, saving time and potentially improving model performance.
 
 - Ensemble Learning: Implement ensemble learning techniques to combine predictions from multiple models. This could involve training multiple CNN architectures with different hyperparameters or using techniques like bagging or boosting. By combining the strengths of different models, ensemble learning often leads to improved performance and robustness.
