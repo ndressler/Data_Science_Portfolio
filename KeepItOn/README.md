@@ -8,7 +8,6 @@
 - [How to Use](#how-to-use)
 - [Presentation](#presentation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## The Context
 
@@ -65,7 +64,3 @@ To present the slides for this case remeber to download the whole project so the
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
