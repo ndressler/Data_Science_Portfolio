@@ -9,7 +9,6 @@
 - [Data Format](#data-format)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About the Project
 
@@ -41,7 +40,6 @@ WomensBoulder/<br>
 │<br>
 ├── app.py      # Initializes a Flask app and creates a Flask-RESTful API<br>
 ├── requirements.txt  # Requirements of the application<br>
-├── LICENSE<br>
 └── README.md                              # You are here
 
 ## Getting Started
@@ -131,11 +129,6 @@ The data served by this API is stored in a JSON format. Each competition entry c
 ## Contributing
 
 Contributions to this project are welcome! If you have any suggestions, enhancements, or bug fixes, feel free to submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 
 ---
 
