@@ -8,7 +8,6 @@
 - [Functionality](#functionality)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About the Project
 
@@ -38,7 +37,6 @@ MathQuiz/<br>
 │   ├── __init__.py    # Initialization file<br>
 │   ├── quiz.py        # Module containing quiz-related functions<br>
 │   └── user.py        # Module containing user-related functions<br>
-├── LICENSE<br>
 └── README.md                              # You are here<br>
 
 
@@ -95,7 +93,3 @@ The math quiz system provides the following functionality:
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
