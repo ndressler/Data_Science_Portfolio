@@ -4,6 +4,8 @@
 This project is a PostgreSQL database implementation for managing cocktail recipes, ingredients, glassware, localities, and persons associated with cocktail consumption.
 The objective of this project is to report back a set of tasks on analysis of the data set.
 
+The Cocktails DE project successfully establishes a PostgreSQL database for managing cocktail data, facilitating analyses that provide critical insights into the business.
+
 ## Project Structure
 
 The project structure is organized as follows:
