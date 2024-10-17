@@ -22,7 +22,6 @@ The task involves solving a more challenging problem of a multi-class classifica
 ML-CNN_CIFAR10/<br>
 ├── cnn_cifar10.ipynb            # Jupyter Notebook file<br>
 ├── requirements.txt  # Code requirements file
-├── LICENSE<br>
 └── README.md                              # You are here<br>
 
 - `Importing Libraries`: Initial setup includes importing necessary libraries.
@@ -72,7 +71,3 @@ ML-CNN_CIFAR10/<br>
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
