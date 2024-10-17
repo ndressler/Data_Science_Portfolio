@@ -1,4 +1,4 @@
-# Womens Bouldering Analysis
+# Women's Bouldering Analysis
 
 ## Table of Contents
 - [About the Project](#about-the-project)
