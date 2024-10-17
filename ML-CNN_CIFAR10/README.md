@@ -27,7 +27,7 @@ The task involves solving a more challenging problem of a multi-class classifica
 ## Project Structure
 
 ML-CNN_CIFAR10/<br>
-├── Report.pdf # Complete report on the project. <br>
+├── Report-Convolutional_Neural_Network_for_a_Multi-Class_Classification_of_Images_Case.pdf # Complete report on the project. <br>
 ├── cnn_cifar10.ipynb            # Jupyter Notebook file<br>
 ├── requirements.txt  # Code requirements file <br>
 └── README.md                              # You are here<br>
