@@ -21,7 +21,7 @@ The task involves solving a more challenging problem of a multi-class classifica
 
 ML-CNN_CIFAR10/<br>
 ├── cnn_cifar10.ipynb            # Jupyter Notebook file<br>
-├── requirements.txt  # Code requirements file
+├── requirements.txt  # Code requirements file <br>
 └── README.md                              # You are here<br>
 
 - `Importing Libraries`: Initial setup includes importing necessary libraries.
