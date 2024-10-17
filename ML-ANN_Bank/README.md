@@ -33,6 +33,7 @@ The task involves implementing a feedforward artificial neural network (ANN) usi
 ## Project Structure
 
 ML-ANN_Bank/<br>
+├── Report.pdf # Complete report on the project<br>
 ├── ann_bank.ipynb            # Jupyter Notebook file<br>
 ├── as1-bank.csv # Data file<br>
 ├── requirements.txt  # Code requirements.txt
