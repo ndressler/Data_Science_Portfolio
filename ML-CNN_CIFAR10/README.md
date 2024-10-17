@@ -7,7 +7,6 @@
 - [How to Use](#how-to-use)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About the Project
 
