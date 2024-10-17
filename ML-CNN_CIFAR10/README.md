@@ -12,6 +12,14 @@
 
 This project focuses on building and evaluating Convolutional Neural Network (CNN) models for the classification of images from the CIFAR-10 dataset. The goal is to develop a model that accurately classifies these images into their respective categories.
 
+The project explores the use of Convolutional Neural Networks (CNNs) in the rapidly growing field of Machine Learning, focusing specifically on image classification tasks. CNNs are inspired by the brain’s biological neural networks and have shown remarkable success in tasks such as pattern recognition, natural language processing, and data-driven decision-making. The project aims to implement a CNN for accurately classifying images in the CIFAR-10 dataset, which consists of 60,000 32x32 color images across 10 categories. The report will cover model construction, training, evaluation, and the comparison of different architectures and hyperparameters.
+
+CNNs are chosen for their effectiveness in computer vision applications. The historical development of CNNs, highlighted by successes in image classification challenges such as ImageNet, underscores their capability to learn relevant features from raw pixel data. The project employs various techniques to optimize model performance, including data preprocessing, dropout for regularization, and data augmentation to prevent overfitting.
+
+The performance of each model was evaluated through test loss and accuracy metrics. Model 5, utilizing data augmentation and dropout, showed the best results with significant improvements in both metrics with a test loss of 0.63 and test accuracy of 0.79. The comparison revealed that increasing model complexity did not always yield better performance, emphasizing the importance of dropout and data augmentation.
+
+The project successfully developed a CNN for multi-class image classification, demonstrating an improvement of 47% in test loss and 14% in accuracy across models. The findings indicate that while complex architectures can enhance performance, careful consideration of regularization techniques and data augmentation is essential. Future work could involve testing more complex models, varying hyperparameters, and optimizing training processes to further improve classification accuracy while balancing computational efficiency and overfitting risks.
+
 ## Task
 
 The task involves solving a more challenging problem of a multi-class classification problem using image inputs from the CIFAR-10 dataset, which contains 60,000 32x32 color images in 10 classes. The objective is to develop a methodical and scientifically grounded approach to creating neural network models capable of accurately classifying images into multiple categories. This entails experimenting with various network types, architecture choices, hyper-parameter optimization techniques, and dimensionality reduction methods.
@@ -19,6 +27,7 @@ The task involves solving a more challenging problem of a multi-class classifica
 ## Project Structure
 
 ML-CNN_CIFAR10/<br>
+├── Report.pdf # Complete report on the project. <br>
 ├── cnn_cifar10.ipynb            # Jupyter Notebook file<br>
 ├── requirements.txt  # Code requirements file <br>
 └── README.md                              # You are here<br>
