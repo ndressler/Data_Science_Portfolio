@@ -9,7 +9,7 @@
 
 ## About the Project
 
-This project performs an in-depth analysis of **Women's Bouldering World Cups** from 2016 to 2021, excluding 2020 due to the COVID-19 pandemic. Data was scraped from the **IFSC** website and cleaned and analyzed using **Google Sheets**. The analysis includes athlete statistics, competition difficulty, and medal distribution trends. The findings were presented in **Google Slides**.
+The Women's Bouldering Analysis project examines the Women’s Bouldering World Cups from 2016 to 2021, focusing on athlete performance, competition difficulty, and medal distribution trends. Despite the increasing popularity of competitive climbing, there is limited data-driven insight into how female athletes are performing and how competition dynamics are changing. This analysis is important as it provides valuable insights that can help coaches, athletes, and sponsors better understand performance patterns and make informed decisions to enhance training and support for female climbers. By leveraging data from the International Federation of Sport Climbing (IFSC) and conducting thorough exploratory data analysis, this project aims to highlight the achievements of women in bouldering and promote greater visibility and engagement in the sport.
 
 ## Project Structure
 
