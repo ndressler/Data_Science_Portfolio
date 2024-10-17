@@ -1,44 +1,46 @@
-# Project: Womens Bouldering World Cup Analysis (2016-2021)
-  - Data Analysis (EDA) using Google Sheets and Slides.
- 
-## Project Overview:
-This project performs a comprehensive Exploratory Data Analysis (EDA) on women's bouldering competitions in the IFSC World Cup from 2016 to 2021. The primary aim is to extract valuable insights into the competition results and trends in women's bouldering. Data was scraped from the IFSC website and analyzed using Google Sheets for data cleaning, transformation, and visualization. The analysis process, key findings, and insights are presented in an accompanying slide deck.
+# Womens Bouldering Analysis
 
-## Tools & Techniques Used:
-- **Google Sheets:** Data cleaning, transformation, and formula-based analysis.
-- **Google Slides:** Visualization and presentation of findings.
-- **Web Scraping:** Data sourced directly from the IFSC website.
-- **Data Visualization:** Graphs and charts to highlight trends, performance, and insights.
+## Table of Contents
+- [About the Project](#about-the-project)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [Skills & Abilities](#skills--abilities)
+- [Contributing](#contributing)
 
-## Data Source:
-- **Scraped Data:** Results and rankings for all IFSC Women's Bouldering World Cup events from 2016-2021.
+## About the Project
 
-Note: Due to the COVID-19 pandemic, no competitions were held in 2020.
+This project performs an in-depth analysis of **Women's Bouldering World Cups** from 2016 to 2021, excluding 2020 due to the COVID-19 pandemic. Data was scraped from the **IFSC** website and cleaned and analyzed using **Google Sheets**. The analysis includes athlete statistics, competition difficulty, and medal distribution trends. The findings were presented in **Google Slides**.
 
-## Key Project Phases:
-### Data Collection & Cleaning:
-- Data Scraping: Collected data from the <a href="https://www.ifsc-climbing.org/index.php/world-competition/last-result" target="_blank">IFSC website</a> for 2016-2021 competitions, focusing on athlete performance metrics (rankings, tops, attempts).
-- Data Cleaning: In Google Sheets, cleaned the data by removing duplicates, handling missing values, correcting inconsistencies, and structuring it into a usable format.
+## Project Structure
 
-### Data Transformation
-- Aggregation: Organized and summarized data by year and athlete, calculating key metrics like average rankings and attempts per top.
-- Formulas: Applied formulas in Google Sheets to automate calculations for athlete and competition performance, preparing the data for visualization.
+The project structure is organized as follows: <br> <br>
+BoulderSandS/  <br>
+│ <br>
+├── README.md # Project documentation, including the overview, steps, and structure. <br>
+├── WOMENS_BOULDERING_Slides.pdf # PDF version of the project presentation. <br>
+├── WOMENS_BOULDERING_Slides.pptx # PowerPoint version of the project presentation.<br>
+└── WOMENS_BOULDERING_Spreadsheet.xlsx # Google Sheets file containing raw and cleaned data, analysis, calculations, and visualizations.<br>
 
-### Data Visualization:
-- **Charts & Graphs:** Visualized key insights using line charts, bar charts, and scatter plots to highlight performance trends, number of tops per competition, and athlete rankings over time.
+## Getting Started
 
-### Presentation:
-- Developed a Google Slides presentation with embedded charts to clearly communicate the findings. Structured the presentation to highlight key statistics, trends, and patterns in the dataset.
+To explore the project, you can:
+1. View the analysis through the **WOMENS_BOULDERING_Slides.pdf** for a visual summary of the key insights.
+2. Review the raw data and calculations in **WOMENS_BOULDERING_Spreadsheet.xlsx** for detailed analysis steps and data transformations.
 
-### Key Insights:
-- Dominance of Janja Garnbret: Janja's unparalleled performance in 2019, winning every event, illustrates a gap between her and the other competitors in terms of both physical and mental preparation.
-- Country Performance Trends: Slovenia and Japan consistently produced top athletes, with the distiction of Slovenia having one  exceptional performative athlete and Japan being the country with a colective high performative althelets.
-- Impact of Route Difficulty: The data reveals that certain locations were consistently harder for competitors, which influenced overall competition results. For example, Meiringen and Innsbruck were among the toughest locations, while Salt Lake City saw higher success rates due to easier problems.
-- Athlete Consistency: Athletes like Akiyo Noguchi and Miho Nonaka displayed remarkable consistency, regularly placing in the top three, indicating their ability to perform well across different competition environments.
+## Skills & Abilities
 
-## Conclusion:
-This project demonstrates my ability to manage the full data analysis lifecycle—from data scraping and cleaning to advanced data transformation, visualization, and presentation. By analyzing the Women's Bouldering World Cups (2016-2021), I showcased strong skills in:
-- Data Wrangling: Extracting, cleaning, and organizing real-world data from raw, unstructured sources into a usable format for in-depth analysis.
-- Statistical Analysis: Applying key statistical methods to uncover trends in athlete performance, competition difficulty, and medal distribution, ensuring insights are both accurate and actionable.
-- Data Visualization: Creating clear, informative visualizations that effectively communicate complex data to both technical and non-technical audiences.
-- Storytelling with Data: Presenting key insights through a compelling narrative that highlights not only trends and patterns but also potential applications of these findings for stakeholders in sports, coaching, or event planning.
+This project demonstrates a range of **data science** and **analysis skills**, including:
+
+- **Data Collection & Scraping**: Extracted competition data from the IFSC website using web scraping techniques.
+- **Data Cleaning & Transformation**: Performed thorough cleaning of raw data in Google Sheets, handling missing values, duplicates, and inconsistencies.
+- **Statistical Analysis**: Applied key statistical methods to analyze athlete performance, competition difficulty, and medal distribution trends.
+- **Data Visualization**: Created intuitive and informative visualizations (bar charts, line graphs, scatter plots) using Google Sheets to communicate complex data insights.
+- **Storytelling & Presentation**: Compiled findings into a well-structured **Google Slides** presentation, effectively communicating insights to both technical and non-technical audiences.
+- **Spreadsheet Skills**: Leveraged advanced formulas and calculations within Google Sheets to automate data transformations and enhance the depth of analysis.
+  
+These skills reflect my ability to handle the end-to-end data analysis process, from data extraction and cleaning to advanced analysis and storytelling with data.
+
+
+## Contributing
+
+Contributions are welcome! Feel free to suggest improvements or additional features by submitting pull requests.
