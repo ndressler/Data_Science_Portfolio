@@ -12,6 +12,20 @@
 
 This project aims to implement feedforward artificial neural networks (ANNs) using Python and Keras for binary classification tasks in the finance sector. The project focuses on analyzing different ANN architectures and data scaling techniques to identify the most effective models for predicting binary outcomes in financial datasets.
 
+The data of the project is about a marketing campaign for a bank, the objective is to predict if the clients will subscribe to the term deposit. Therefore, the true-positive results tell us about a client who will make a term in reality and who
+is also predicted to make a term, we want this number to be as high as possible, so that the
+marketing team can focus on the right clients to convert; the true-negative results are important
+to not waste marketing resources, as are the false-positive, we want both values to be as low as
+possible; most importantly are the false-negative results, they will make the marketing team lose
+clients as they would actually sign up for the term deposit but were predicted as negatives,
+resulting in the marketing team not reaching out and not making the sale.
+
+Thus, the metrics with higher importance are obtaining the lowest false-negative results
+followed by highest true-positives and the recall followed by F1 score metrics, since a high recall
+minimises the false-negatives and F1 score measures both recall and precision.
+
+Ultimately, Model 9, with three hidden layers and the 'ReLU' activation function, achieved the best performance metrics for this binary classification task. This model effectively minimized false negatives while maximizing recall, making it the most suitable choice for the marketing objectives of the bank.
+
 ## Task
 
 The task involves implementing a feedforward artificial neural network (ANN) using Python's Keras library for binary classification on a finance sector dataset. The dataset, a modified version of the Bank Marketing Dataset from the UCI Machine Learning Repository, contains preprocessed attributes for the task. The goal is to construct an ANN, considering the optimal number of hidden layers and nodes while keeping other parameters constant. The model will be trained on the training data and evaluated on the testing data. Experimental design will involve comparative analyses of different architectures using evaluative metrics to determine the most effective solution.
