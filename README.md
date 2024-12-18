@@ -22,7 +22,7 @@ With <strong>Jupyter Notebook</strong>:
 
 With <strong>SQL</strong>:
 
-  * [CocktailsDE](https://github.com/ndressler/Data_Science_Portfolio/tree/main/Cocktails_SQL_Analysis): Task Analysis Challenge made with PostgreSQL.
+  * [CocktailsDE](https://github.com/ndressler/Data_Science_Portfolio/tree/main/CocktalisDE): Task Analysis Challenge made with PostgreSQL.
 
 With <strong>Spreasheets & Slides</strong>:
 
